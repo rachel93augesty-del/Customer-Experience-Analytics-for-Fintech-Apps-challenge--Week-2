@@ -1,0 +1,86 @@
+THEMATIC ANALYSIS SUMMARY - ETHIOPIAN BANK APPS
+============================================================
+
+Total Reviews Analyzed: 1200
+Analysis Date: 2025-11-27 16:18:26
+
+THEME DEFINITIONS:
+- Login & Access Issues: Problems with login, passwords, account access
+- Transaction Problems: Failed transfers, pending payments, money transfer issues
+- App Performance & Bugs: Crashes, freezing, slow loading, technical errors
+- User Interface & Experience: Design, navigation, ease of use issues
+- Customer Support: Response times, help quality, service issues
+- Positive Feedback: Positive comments about app features and performance
+- General Feedback: Other general comments and feedback
+
+DETAILED RESULTS BY BANK:
+========================================
+
+BANK OF ABYSSINIA:
+------------------------------
+Theme Frequency:
+  - General Feedback: 251 mentions (62.7%)
+  - Positive Feedback: 75 mentions (18.8%)
+  - App Performance & Bugs: 33 mentions (8.2%)
+  - Login & Access Issues: 13 mentions (3.2%)
+  - Transaction Problems: 13 mentions (3.2%)
+  - Customer Support: 12 mentions (3.0%)
+  - User Interface & Experience: 3 mentions (0.8%)
+
+Example Reviews:
+  General Feedback:
+    - "not use for me..." (Rating: 3/5)
+    - "It keeps notifying me to disable developer options and quiet while I'm not enabl..." (Rating: 1/5)
+  Positive Feedback:
+    - "very good..." (Rating: 5/5)
+    - "it is a good app..." (Rating: 5/5)
+  App Performance & Bugs:
+    - "most of the time is not working properly..." (Rating: 1/5)
+    - "it is not working at all..." (Rating: 1/5)
+
+
+COMMERCIAL BANK OF ETHIOPIA:
+------------------------------
+Theme Frequency:
+  - General Feedback: 240 mentions (60.0%)
+  - Positive Feedback: 104 mentions (26.0%)
+  - Transaction Problems: 20 mentions (5.0%)
+  - Login & Access Issues: 16 mentions (4.0%)
+  - Customer Support: 13 mentions (3.2%)
+  - App Performance & Bugs: 5 mentions (1.2%)
+  - User Interface & Experience: 2 mentions (0.5%)
+
+Example Reviews:
+  General Feedback:
+    - "best..." (Rating: 5/5)
+    - "nice app......" (Rating: 5/5)
+  Positive Feedback:
+    - "good app..." (Rating: 5/5)
+    - "good..." (Rating: 5/5)
+  Transaction Problems:
+    - "why we can't send money to other people telebirr wallets??..." (Rating: 1/5)
+    - "not allowing to transfer and showing current statement updates...." (Rating: 1/5)
+
+
+DASHEN BANK:
+------------------------------
+Theme Frequency:
+  - General Feedback: 243 mentions (60.8%)
+  - Positive Feedback: 79 mentions (19.8%)
+  - App Performance & Bugs: 26 mentions (6.5%)
+  - Transaction Problems: 20 mentions (5.0%)
+  - Login & Access Issues: 13 mentions (3.2%)
+  - User Interface & Experience: 10 mentions (2.5%)
+  - Customer Support: 9 mentions (2.2%)
+
+Example Reviews:
+  General Feedback:
+    - "What do you care about my phone's settings? Who are you to tell me what to turn ..." (Rating: 1/5)
+    - "Exceptional Product...." (Rating: 5/5)
+  Positive Feedback:
+    - "Only the UI/UX is good, but it doesn't function properly. It's a shame that a le..." (Rating: 1/5)
+    - "it's good but is not fast..." (Rating: 5/5)
+  App Performance & Bugs:
+    - "it say's disable developer option, i disabled it but its not working still..." (Rating: 1/5)
+    - "This so-called “Super App” is a complete disappointment. It’s confusing, slow, a..." (Rating: 1/5)
+

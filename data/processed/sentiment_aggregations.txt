@@ -1,0 +1,27 @@
+SENTIMENT ANALYSIS AGGREGATIONS
+==================================================
+
+1. SENTIMENT BY BANK:
+                            sentiment_score       rating
+                                       mean count   mean
+bank                                                    
+Bank of Abyssinia                     0.618   400  3.385
+Commercial Bank of Ethiopia           0.757   400  4.130
+Dashen Bank                           0.717   400  3.950
+
+2. SENTIMENT BY RATING:
+       sentiment_score      
+                  mean count
+rating                      
+1                  0.2   264
+2                  0.2    45
+3                  0.5    67
+4                  0.9    89
+5                  0.9   735
+
+3. SENTIMENT DISTRIBUTION:
+sentiment_label
+POSITIVE    824
+NEGATIVE    309
+NEUTRAL      67
+Name: count, dtype: int64
