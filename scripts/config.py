@@ -33,3 +33,10 @@ DATA_PATHS = {
     'raw_reviews': 'data/raw/bank_reviews_raw.csv',      # Raw reviews file
     'app_info': 'data/raw/app_info.csv'                  # App metadata file
 }
+DB_CONFIG = {
+    "host": "localhost",
+    "database": "bank_reviews",
+    "user": "postgres",
+    "password": "",  # Empty string
+    "port": 5432
+}
