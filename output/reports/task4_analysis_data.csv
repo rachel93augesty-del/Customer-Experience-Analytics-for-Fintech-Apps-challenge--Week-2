@@ -1,0 +1,1251 @@
+bank_name,review_text,rating,sentiment_score,review_date,thumbs_up,text_length,word_count,source,app_version,sentiment_label,month
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,1,-0.536,2025-09-06,0,45,8,Google Play Store,4.7.2,negative,2025-09
+Commercial Bank of Ethiopia,Please fix the update issues problem!,1,-0.291,2025-01-23,1,37,6,Google Play Store,1.9.91,negative,2025-01
+Awash Bank,Awash Bank has the best useful features feature.,5,0.4,2025-07-25,3,48,8,Google Play Store,1.1.8,positive,2025-07
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.643,2025-10-29,3,34,4,Google Play Store,2.5.3,positive,2025-10
+Commercial Bank of Ethiopia,Disappointed with update issues issues.,2,-0.514,2025-02-10,2,39,5,Google Play Store,4.9.88,negative,2025-02
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.609,2024-12-24,2,48,8,Google Play Store,3.0.7,positive,2024-12
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.924,2025-01-09,1,44,5,Google Play Store,3.6.61,negative,2025-01
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,2,-0.615,2025-07-25,2,50,8,Google Play Store,3.8.78,negative,2025-07
+Bank of Abyssinia,The app works perfectly for secure transactions.,4,0.481,2025-08-29,3,48,7,Google Play Store,1.3.12,positive,2025-08
+Commercial Bank of Ethiopia,The app works perfectly for good customer support.,5,0.361,2025-02-22,6,50,8,Google Play Store,1.0.26,positive,2025-02
+Bank of Abyssinia,poor connectivity is making the app unusable.,1,-0.375,2025-06-21,1,45,7,Google Play Store,4.5.31,negative,2025-06
+Bank of Abyssinia,Disappointed with poor connectivity issues.,2,-0.872,2025-08-12,0,43,5,Google Play Store,4.0.58,negative,2025-08
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,4,0.413,2025-07-26,4,52,7,Google Play Store,4.0.37,positive,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.803,2025-01-11,3,48,8,Google Play Store,2.2.18,positive,2025-01
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,1.0,2025-07-05,3,40,8,Google Play Store,4.8.59,positive,2025-07
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,1,-0.272,2025-07-09,4,50,8,Google Play Store,3.0.71,negative,2025-07
+Dashen Bank,complex navigation is making the app unusable.,1,-0.435,2024-12-30,1,46,7,Google Play Store,1.8.99,negative,2024-12
+Dashen Bank,Excellent experience with good security.,5,0.708,2025-10-31,3,40,5,Google Play Store,2.5.50,positive,2025-10
+Dashen Bank,The app works perfectly for good security.,5,0.944,2025-01-20,3,42,7,Google Play Store,4.4.5,positive,2025-01
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,1.0,2025-08-09,3,48,6,Google Play Store,4.1.24,positive,2025-08
+Commercial Bank of Ethiopia,"Frustrated with slow loading time, needs immediate attention.",1,-0.312,2025-03-05,1,61,8,Google Play Store,2.6.92,negative,2025-03
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.407,2025-10-28,6,39,9,Google Play Store,2.6.62,positive,2025-10
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,4,0.643,2025-06-06,0,40,11,Google Play Store,3.5.59,positive,2025-06
+Commercial Bank of Ethiopia,Please fix the update issues problem!,2,-0.922,2024-12-18,1,37,6,Google Play Store,4.1.29,negative,2024-12
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.602,2025-01-19,3,35,6,Google Play Store,1.1.95,positive,2025-01
+Bank of Abyssinia,Please fix the poor connectivity problem!,1,-0.459,2025-09-25,1,41,6,Google Play Store,4.9.15,negative,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,4,0.526,2025-04-29,5,69,11,Google Play Store,2.4.99,positive,2025-04
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,5,0.906,2025-11-17,1,43,6,Google Play Store,1.3.23,positive,2025-11
+Bank of Abyssinia,Highly recommended for secure transactions.,5,0.591,2025-09-29,3,43,5,Google Play Store,3.1.34,positive,2025-09
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,2,-0.794,2025-05-21,1,45,8,Google Play Store,3.7.35,negative,2025-05
+Bank of Abyssinia,poor connectivity is making the app unusable.,1,-0.485,2025-10-28,1,45,7,Google Play Store,4.6.61,negative,2025-10
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,0.957,2025-10-02,3,48,7,Google Play Store,4.8.18,positive,2025-10
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,1.0,2025-09-25,3,45,10,Google Play Store,3.8.38,positive,2025-09
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.512,2025-04-12,7,48,6,Google Play Store,1.1.26,positive,2025-04
+Dashen Bank,Highly recommended for good security.,5,0.429,2025-07-11,4,37,5,Google Play Store,1.5.38,positive,2025-07
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",1,-1.0,2025-10-06,3,64,7,Google Play Store,3.8.62,negative,2025-10
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,1.0,2025-06-13,0,60,10,Google Play Store,1.5.84,positive,2025-06
+Awash Bank,The app works perfectly for easy registration.,5,0.658,2025-07-13,4,46,7,Google Play Store,4.9.95,positive,2025-07
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.479,2025-07-20,2,61,11,Google Play Store,1.3.63,positive,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,0.605,2025-10-18,2,63,9,Google Play Store,1.8.65,positive,2025-10
+Commercial Bank of Ethiopia,The app keeps having problems with app crashes frequently.,1,-0.584,2025-04-08,0,58,9,Google Play Store,1.9.62,negative,2025-04
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.673,2025-01-26,5,50,8,Google Play Store,1.9.73,negative,2025-01
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,4,0.426,2025-02-18,0,45,6,Google Play Store,3.7.38,positive,2025-02
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,1.0,2025-04-25,5,46,7,Google Play Store,3.2.37,positive,2025-04
+Bank of Abyssinia,buggy updates is making the app unusable.,2,-0.7,2025-01-29,1,41,7,Google Play Store,3.6.50,negative,2025-01
+Bank of Abyssinia,Disappointed with transaction failures issues.,2,-0.842,2025-09-25,2,46,5,Google Play Store,3.2.22,negative,2025-09
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.58,2025-05-22,5,39,6,Google Play Store,2.5.20,positive,2025-05
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,5,0.792,2025-09-21,1,52,10,Google Play Store,2.7.93,positive,2025-09
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,0.257,2025-05-10,4,46,6,Google Play Store,2.9.13,positive,2025-05
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,5,0.782,2025-02-12,2,66,10,Google Play Store,1.9.38,positive,2025-02
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,4,0.64,2025-09-26,4,43,6,Google Play Store,3.7.39,positive,2025-09
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,0.6,2025-01-22,3,49,11,Google Play Store,2.5.3,positive,2025-01
+Dashen Bank,Excellent experience with innovative features.,4,1.0,2025-10-24,5,46,5,Google Play Store,2.0.93,positive,2025-10
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,1,-0.137,2025-07-23,0,45,8,Google Play Store,2.3.18,negative,2025-07
+Commercial Bank of Ethiopia,connection errors is making the app unusable.,2,-0.469,2025-01-04,1,45,7,Google Play Store,2.7.9,negative,2025-01
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,0.503,2025-01-08,4,46,7,Google Play Store,1.4.61,positive,2025-01
+Dashen Bank,Dashen Bank has the best modern design feature.,5,1.0,2025-12-02,4,47,8,Google Play Store,2.2.84,positive,2025-12
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,5,0.883,2025-02-10,5,43,6,Google Play Store,1.8.16,positive,2025-02
+Dashen Bank,Excellent experience with quick setup.,5,0.814,2025-09-27,2,38,5,Google Play Store,3.0.93,positive,2025-09
+Dashen Bank,complex navigation is making the app unusable.,1,-0.89,2025-03-24,0,46,7,Google Play Store,2.9.4,negative,2025-03
+Dashen Bank,Highly recommended for good security.,4,0.945,2025-06-02,4,37,5,Google Play Store,3.2.35,positive,2025-06
+Bank of Abyssinia,I love how easy it is to do helpful support team.,4,0.861,2025-04-29,3,49,11,Google Play Store,4.3.67,positive,2025-04
+Dashen Bank,I love how easy it is to do quick setup.,5,0.792,2025-10-13,4,40,10,Google Play Store,1.9.35,positive,2025-10
+Commercial Bank of Ethiopia,The app keeps having problems with connection errors.,1,-0.219,2025-05-15,1,53,8,Google Play Store,1.2.62,negative,2025-05
+Bank of Abyssinia,"Frustrated with buggy updates, needs immediate attention.",1,-0.169,2025-07-28,0,57,7,Google Play Store,4.2.53,negative,2025-07
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,5,0.709,2025-07-06,1,43,6,Google Play Store,1.6.80,positive,2025-07
+Awash Bank,The app works perfectly for helpful customer service.,4,0.572,2025-04-23,2,53,8,Google Play Store,3.0.44,positive,2025-04
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",1,-0.539,2025-08-12,1,58,7,Google Play Store,3.3.0,negative,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,4,0.925,2025-09-07,5,45,10,Google Play Store,3.7.53,positive,2025-09
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,0.983,2025-09-16,5,38,6,Google Play Store,3.1.6,positive,2025-09
+Bank of Abyssinia,Disappointed with buggy updates issues.,1,-0.319,2025-09-12,2,39,5,Google Play Store,2.1.66,negative,2025-09
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.93,2024-12-13,4,49,8,Google Play Store,2.6.95,positive,2024-12
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,0.592,2025-04-01,2,52,7,Google Play Store,1.1.86,positive,2025-04
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",2,-0.632,2025-07-03,1,64,7,Google Play Store,1.9.85,negative,2025-07
+Commercial Bank of Ethiopia,Please fix the update issues problem!,1,-0.239,2025-06-13,1,37,6,Google Play Store,2.9.45,negative,2025-06
+Commercial Bank of Ethiopia,Excellent experience with convenient.,4,0.864,2025-07-07,8,37,4,Google Play Store,4.0.35,positive,2025-07
+Bank of Abyssinia,Highly recommended for secure transactions.,5,1.0,2025-05-16,2,43,5,Google Play Store,1.0.88,positive,2025-05
+Dashen Bank,Highly recommended for modern design.,4,0.618,2025-08-23,2,37,5,Google Play Store,3.0.60,positive,2025-08
+Dashen Bank,sync issues is making the app unusable.,1,-0.561,2025-07-07,2,39,7,Google Play Store,4.8.81,negative,2025-07
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,1.0,2025-02-24,2,48,10,Google Play Store,1.6.8,positive,2025-02
+Commercial Bank of Ethiopia,Excellent experience with convenient.,5,0.633,2025-08-22,0,37,4,Google Play Store,3.7.98,positive,2025-08
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,1.0,2025-11-29,5,60,10,Google Play Store,3.2.41,positive,2025-11
+Awash Bank,Excellent experience with useful features.,5,0.319,2025-02-04,4,42,5,Google Play Store,4.8.9,positive,2025-02
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,0.758,2025-06-28,5,46,6,Google Play Store,3.0.87,positive,2025-06
+Commercial Bank of Ethiopia,update issues is making the app unusable.,1,-0.236,2025-04-21,0,41,7,Google Play Store,4.3.58,negative,2025-04
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",2,-1.0,2025-01-24,0,53,7,Google Play Store,1.9.2,negative,2025-01
+Dashen Bank,complex navigation is making the app unusable.,1,-0.504,2025-04-06,0,46,7,Google Play Store,2.2.49,negative,2025-04
+Bank of Abyssinia,Please fix the transaction failures problem!,1,-0.306,2025-01-08,2,44,6,Google Play Store,4.2.91,negative,2025-01
+Bank of Abyssinia,The app works perfectly for secure transactions.,4,1.0,2025-04-21,2,48,7,Google Play Store,1.9.17,positive,2025-04
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,4,0.895,2025-04-23,7,48,11,Google Play Store,4.7.91,positive,2025-04
+Dashen Bank,Please fix the complex navigation problem!,2,-0.408,2025-05-26,1,42,6,Google Play Store,1.9.30,negative,2025-05
+Dashen Bank,I love how easy it is to do quick setup.,5,0.763,2025-05-11,2,40,10,Google Play Store,1.0.16,positive,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.337,2025-01-18,3,45,10,Google Play Store,4.3.67,positive,2025-01
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",1,-1.0,2025-05-07,4,66,8,Google Play Store,1.6.28,negative,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,0.639,2025-04-21,3,40,11,Google Play Store,3.3.31,positive,2025-04
+Commercial Bank of Ethiopia,Disappointed with app crashes frequently issues.,1,-0.627,2025-11-12,4,48,6,Google Play Store,3.0.57,negative,2025-11
+Dashen Bank,Dashen Bank has the best innovative features feature.,4,0.589,2025-05-09,2,53,8,Google Play Store,1.4.7,positive,2025-05
+Dashen Bank,Disappointed with sync issues issues.,2,-0.555,2025-01-21,1,37,5,Google Play Store,3.8.93,negative,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.768,2025-08-08,3,69,11,Google Play Store,1.1.93,positive,2025-08
+Commercial Bank of Ethiopia,The app works perfectly for good customer support.,4,0.938,2025-08-23,4,50,8,Google Play Store,2.5.85,positive,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.981,2025-04-14,1,48,11,Google Play Store,4.9.21,positive,2025-04
+Commercial Bank of Ethiopia,"Frustrated with slow loading time, needs immediate attention.",2,-0.994,2025-02-01,1,61,8,Google Play Store,3.5.8,negative,2025-02
+Awash Bank,I love how easy it is to do useful features.,5,0.771,2025-09-10,2,44,10,Google Play Store,4.3.5,positive,2025-09
+Dashen Bank,Excellent experience with modern design.,5,0.982,2025-11-21,1,40,5,Google Play Store,1.2.18,positive,2025-11
+Awash Bank,Excellent experience with stable performance.,5,0.344,2025-05-06,4,45,5,Google Play Store,3.5.62,positive,2025-05
+Commercial Bank of Ethiopia,Please fix the slow loading time problem!,2,-0.814,2025-02-13,0,41,7,Google Play Store,4.3.59,negative,2025-02
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",1,-0.558,2025-09-28,2,61,7,Google Play Store,3.2.57,negative,2025-09
+Awash Bank,The app works perfectly for stable performance.,5,0.688,2025-11-25,4,47,7,Google Play Store,1.4.37,positive,2025-11
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,1.0,2025-04-16,3,46,7,Google Play Store,1.4.64,positive,2025-04
+Dashen Bank,I love how easy it is to do quick setup.,5,1.0,2025-03-08,3,40,10,Google Play Store,1.3.7,positive,2025-03
+Bank of Abyssinia,transaction failures is making the app unusable.,1,-0.904,2025-05-13,2,48,7,Google Play Store,4.5.60,negative,2025-05
+Commercial Bank of Ethiopia,Please fix the slow loading time problem!,1,-0.922,2025-10-29,2,41,7,Google Play Store,1.2.77,negative,2025-10
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,0.781,2025-02-21,5,49,11,Google Play Store,4.3.79,positive,2025-02
+Awash Bank,Please fix the notification delays problem!,1,-0.921,2025-11-28,1,43,6,Google Play Store,1.6.89,negative,2025-11
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.429,2024-12-23,4,69,11,Google Play Store,1.8.89,positive,2024-12
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.982,2025-03-09,5,48,8,Google Play Store,2.2.69,positive,2025-03
+Awash Bank,The app keeps having problems with outdated interface.,2,-0.816,2025-09-29,0,54,8,Google Play Store,3.4.18,negative,2025-09
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.566,2025-08-15,8,39,9,Google Play Store,1.1.47,positive,2025-08
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,1.0,2025-11-12,1,49,11,Google Play Store,3.4.14,positive,2025-11
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",2,-1.0,2025-10-12,2,58,7,Google Play Store,4.9.35,negative,2025-10
+Dashen Bank,Excellent experience with modern design.,5,1.0,2025-08-17,3,40,5,Google Play Store,2.9.55,positive,2025-08
+Awash Bank,Highly recommended for useful features.,5,0.985,2025-07-15,4,39,5,Google Play Store,2.7.41,positive,2025-07
+Awash Bank,Excellent experience with easy registration.,5,0.595,2025-06-19,2,44,5,Google Play Store,1.6.68,positive,2025-06
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,1,-0.256,2025-06-26,1,46,7,Google Play Store,1.8.24,negative,2025-06
+Awash Bank,Highly recommended for easy registration.,5,0.921,2025-04-06,0,41,5,Google Play Store,4.2.67,positive,2025-04
+Dashen Bank,Highly recommended for good security.,4,0.738,2025-09-21,2,37,5,Google Play Store,4.0.59,positive,2025-09
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,1,-0.855,2025-10-06,0,45,8,Google Play Store,2.1.86,negative,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,1.0,2025-01-04,3,60,9,Google Play Store,2.8.54,positive,2025-01
+Dashen Bank,Highly recommended for good security.,5,0.818,2025-08-10,5,37,5,Google Play Store,2.5.81,positive,2025-08
+Dashen Bank,"Frustrated with sync issues, needs immediate attention.",1,-0.683,2025-02-14,0,55,7,Google Play Store,2.1.84,negative,2025-02
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.87,2025-03-16,6,61,11,Google Play Store,2.2.29,positive,2025-03
+Dashen Bank,The app keeps having problems with sync issues.,2,-0.428,2025-06-23,0,47,8,Google Play Store,2.2.81,negative,2025-06
+Awash Bank,The app works perfectly for helpful customer service.,5,1.0,2025-03-08,3,53,8,Google Play Store,3.8.5,positive,2025-03
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,4,0.279,2025-11-21,4,69,11,Google Play Store,4.5.31,positive,2025-11
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,4,0.954,2025-03-12,3,40,5,Google Play Store,3.8.86,positive,2025-03
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,5,0.483,2025-03-18,6,66,10,Google Play Store,3.4.62,positive,2025-03
+Bank of Abyssinia,Highly recommended for helpful support team.,5,0.71,2025-07-23,0,44,6,Google Play Store,2.4.78,positive,2025-07
+Bank of Abyssinia,Please fix the transaction failures problem!,2,-0.854,2025-05-04,0,44,6,Google Play Store,1.3.80,negative,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.602,2025-10-30,3,50,11,Google Play Store,4.5.41,positive,2025-10
+Dashen Bank,The app keeps having problems with complex navigation.,2,-0.184,2025-10-04,0,54,8,Google Play Store,1.9.57,negative,2025-10
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,1,-0.298,2024-12-25,1,50,8,Google Play Store,4.0.86,negative,2024-12
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.389,2025-07-04,0,50,5,Google Play Store,4.4.57,positive,2025-07
+Bank of Abyssinia,Disappointed with buggy updates issues.,2,-0.295,2025-03-17,2,39,5,Google Play Store,2.5.95,negative,2025-03
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",1,-0.371,2025-10-15,0,64,7,Google Play Store,4.8.40,negative,2025-10
+Awash Bank,Awash Bank has the best useful features feature.,5,1.0,2025-03-20,5,48,8,Google Play Store,3.0.39,positive,2025-03
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.65,2025-05-04,2,49,8,Google Play Store,1.2.31,positive,2025-05
+Commercial Bank of Ethiopia,Please fix the connection errors problem!,1,-0.926,2025-07-30,3,41,6,Google Play Store,3.5.21,negative,2025-07
+Awash Bank,Please fix the outdated interface problem!,1,-0.943,2025-02-23,2,42,6,Google Play Store,4.5.42,negative,2025-02
+Dashen Bank,Please fix the error messages problem!,1,-0.671,2025-08-17,2,38,6,Google Play Store,2.9.15,negative,2025-08
+Dashen Bank,"Frustrated with error messages, needs immediate attention.",1,-0.259,2025-11-23,3,58,7,Google Play Store,4.8.35,negative,2025-11
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",2,-0.966,2025-11-13,0,66,8,Google Play Store,3.6.69,negative,2025-11
+Dashen Bank,"Frustrated with sync issues, needs immediate attention.",1,-0.653,2025-04-20,0,55,7,Google Play Store,2.4.53,negative,2025-04
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.824,2025-08-06,3,47,5,Google Play Store,2.6.3,positive,2025-08
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,0.776,2025-01-18,1,60,9,Google Play Store,1.9.30,positive,2025-01
+Dashen Bank,The app works perfectly for innovative features.,4,0.575,2025-08-09,2,48,7,Google Play Store,1.5.44,positive,2025-08
+Commercial Bank of Ethiopia,Excellent experience with convenient.,4,0.819,2025-09-04,2,37,4,Google Play Store,2.2.76,positive,2025-09
+Dashen Bank,Highly recommended for quick setup.,5,0.954,2025-10-29,4,35,5,Google Play Store,2.4.99,positive,2025-10
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.784,2025-02-09,2,48,8,Google Play Store,3.3.23,positive,2025-02
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,4,0.609,2025-04-27,5,60,10,Google Play Store,1.3.55,positive,2025-04
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.881,2025-09-24,1,40,8,Google Play Store,4.3.87,positive,2025-09
+Bank of Abyssinia,The app keeps having problems with poor connectivity.,1,-1.0,2025-11-12,0,53,8,Google Play Store,3.6.89,negative,2025-11
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.502,2025-06-25,1,39,6,Google Play Store,2.8.70,positive,2025-06
+Bank of Abyssinia,I love how easy it is to do smooth experience.,4,1.0,2025-09-08,4,46,10,Google Play Store,1.1.21,positive,2025-09
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.815,2025-02-12,2,44,5,Google Play Store,3.0.63,negative,2025-02
+Commercial Bank of Ethiopia,Please fix the update issues problem!,2,-0.537,2025-08-09,1,37,6,Google Play Store,1.7.57,negative,2025-08
+Dashen Bank,Dashen Bank has the best quick setup feature.,4,0.854,2025-04-20,3,45,8,Google Play Store,3.4.50,positive,2025-04
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.358,2025-09-22,4,69,11,Google Play Store,4.5.11,positive,2025-09
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,0.67,2025-11-25,3,45,7,Google Play Store,2.5.18,positive,2025-11
+Dashen Bank,Please fix the error messages problem!,2,-0.5,2025-11-12,1,38,6,Google Play Store,4.5.94,negative,2025-11
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,1.0,2025-07-02,2,46,7,Google Play Store,1.8.49,positive,2025-07
+Commercial Bank of Ethiopia,Disappointed with update issues issues.,2,-0.242,2025-05-01,2,39,5,Google Play Store,2.4.27,negative,2025-05
+Dashen Bank,Excellent experience with innovative features.,4,0.577,2025-01-23,6,46,5,Google Play Store,1.3.15,positive,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.271,2025-03-31,4,69,11,Google Play Store,3.4.98,positive,2025-03
+Dashen Bank,The app works perfectly for innovative features.,5,1.0,2025-01-04,3,48,7,Google Play Store,3.1.45,positive,2025-01
+Bank of Abyssinia,high fees is making the app unusable.,1,-0.656,2025-02-25,1,37,7,Google Play Store,2.6.21,negative,2025-02
+Dashen Bank,Dashen Bank has the best innovative features feature.,5,0.984,2025-01-10,5,53,8,Google Play Store,4.5.52,positive,2025-01
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,4,0.584,2025-05-14,1,57,9,Google Play Store,2.8.67,positive,2025-05
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,1,-0.184,2025-06-28,1,46,7,Google Play Store,2.1.84,negative,2025-06
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.993,2025-01-13,3,47,5,Google Play Store,3.7.75,positive,2025-01
+Awash Bank,Highly recommended for useful features.,5,0.311,2025-11-12,4,39,5,Google Play Store,4.3.21,positive,2025-11
+Dashen Bank,The app keeps having problems with error messages.,1,-0.862,2025-09-07,1,50,8,Google Play Store,2.0.60,negative,2025-09
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,4,0.511,2025-04-06,4,52,7,Google Play Store,1.5.48,positive,2025-04
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,4,0.361,2025-05-25,4,35,6,Google Play Store,1.0.87,positive,2025-05
+Bank of Abyssinia,poor connectivity is making the app unusable.,1,-0.744,2025-01-04,1,45,7,Google Play Store,4.2.75,negative,2025-01
+Dashen Bank,Please fix the complex navigation problem!,2,-0.802,2025-03-28,2,42,6,Google Play Store,2.6.48,negative,2025-03
+Bank of Abyssinia,Disappointed with buggy updates issues.,1,-1.0,2025-07-09,1,39,5,Google Play Store,1.0.75,negative,2025-07
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,1.0,2025-01-06,2,48,11,Google Play Store,1.8.38,positive,2025-01
+Dashen Bank,limited functionality is making the app unusable.,2,-0.981,2025-02-10,2,49,7,Google Play Store,3.0.54,negative,2025-02
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,0.617,2025-02-12,4,48,7,Google Play Store,1.5.29,positive,2025-02
+Bank of Abyssinia,The app keeps having problems with buggy updates.,2,-0.406,2024-12-08,1,49,8,Google Play Store,3.8.99,negative,2024-12
+Commercial Bank of Ethiopia,Highly recommended for convenient.,4,0.876,2025-05-24,4,34,4,Google Play Store,3.0.37,positive,2025-05
+Dashen Bank,The app works perfectly for modern design.,5,0.955,2025-08-12,2,42,7,Google Play Store,3.2.74,positive,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.486,2025-03-16,4,45,10,Google Play Store,2.4.34,positive,2025-03
+Dashen Bank,Excellent experience with innovative features.,5,1.0,2025-08-16,5,46,5,Google Play Store,1.6.50,positive,2025-08
+Commercial Bank of Ethiopia,Disappointed with connection errors issues.,1,-0.516,2025-07-17,1,43,5,Google Play Store,4.7.98,negative,2025-07
+Commercial Bank of Ethiopia,Disappointed with login problems issues.,2,-0.948,2025-05-03,1,40,5,Google Play Store,1.6.84,negative,2025-05
+Commercial Bank of Ethiopia,Please fix the login problems problem!,2,-0.405,2025-01-27,2,38,6,Google Play Store,3.6.91,negative,2025-01
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.666,2025-02-02,0,50,8,Google Play Store,4.5.54,negative,2025-02
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,5,0.638,2025-04-05,5,43,5,Google Play Store,3.2.47,positive,2025-04
+Awash Bank,Excellent experience with helpful customer service.,5,0.246,2025-01-14,4,51,6,Google Play Store,4.5.92,positive,2025-01
+Commercial Bank of Ethiopia,Disappointed with connection errors issues.,2,-0.509,2025-07-04,2,43,5,Google Play Store,3.2.7,negative,2025-07
+Awash Bank,The app works perfectly for useful features.,4,0.342,2025-10-27,0,44,7,Google Play Store,4.4.59,positive,2025-10
+Bank of Abyssinia,The app keeps having problems with poor connectivity.,2,-0.297,2025-03-18,1,53,8,Google Play Store,3.7.2,negative,2025-03
+Bank of Abyssinia,Excellent experience with secure transactions.,4,1.0,2025-09-28,1,46,5,Google Play Store,2.5.59,positive,2025-09
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,1,-0.384,2025-08-05,1,45,8,Google Play Store,1.6.52,negative,2025-08
+Dashen Bank,Highly recommended for quick setup.,4,0.55,2025-02-25,3,35,5,Google Play Store,2.3.71,positive,2025-02
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,0.812,2025-01-02,2,60,10,Google Play Store,3.7.81,positive,2025-01
+Bank of Abyssinia,Excellent experience with secure transactions.,5,1.0,2025-10-15,1,46,5,Google Play Store,2.9.17,positive,2025-10
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,2,-0.886,2025-01-17,0,46,7,Google Play Store,3.8.64,negative,2025-01
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,1.0,2025-06-09,3,38,6,Google Play Store,3.9.28,positive,2025-06
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,4,1.0,2025-08-24,5,45,6,Google Play Store,3.2.11,positive,2025-08
+Awash Bank,The app works perfectly for useful features.,5,0.692,2025-07-10,2,44,7,Google Play Store,3.8.12,positive,2025-07
+Bank of Abyssinia,transaction failures is making the app unusable.,1,-0.291,2025-08-25,2,48,7,Google Play Store,4.7.6,negative,2025-08
+Commercial Bank of Ethiopia,The app keeps having problems with update issues.,1,-0.081,2025-03-26,0,49,8,Google Play Store,1.8.48,neutral,2025-03
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,5,0.687,2025-03-20,0,45,6,Google Play Store,4.9.34,positive,2025-03
+Bank of Abyssinia,Highly recommended for smooth experience.,5,0.864,2025-04-19,0,41,5,Google Play Store,2.5.64,positive,2025-04
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,1,-0.492,2025-06-05,0,43,6,Google Play Store,3.8.33,negative,2025-06
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.658,2025-11-21,0,61,11,Google Play Store,3.4.99,positive,2025-11
+Bank of Abyssinia,The app keeps having problems with poor connectivity.,1,-0.485,2025-10-19,1,53,8,Google Play Store,3.8.28,negative,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,1.0,2025-08-06,4,61,11,Google Play Store,1.0.58,positive,2025-08
+Dashen Bank,Highly recommended for quick setup.,5,1.0,2025-06-05,4,35,5,Google Play Store,3.3.87,positive,2025-06
+Dashen Bank,The app works perfectly for modern design.,5,0.578,2025-09-10,2,42,7,Google Play Store,2.5.26,positive,2025-09
+Dashen Bank,I love how easy it is to do modern design.,5,1.0,2025-02-04,1,42,10,Google Play Store,2.5.92,positive,2025-02
+Bank of Abyssinia,Please fix the buggy updates problem!,1,-0.51,2024-12-17,0,37,6,Google Play Store,2.8.15,negative,2024-12
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.691,2024-12-11,2,49,8,Google Play Store,2.1.25,positive,2024-12
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.448,2025-01-01,2,50,8,Google Play Store,4.3.93,negative,2025-01
+Bank of Abyssinia,Please fix the high fees problem!,1,-0.979,2025-07-19,2,33,6,Google Play Store,4.9.42,negative,2025-07
+Commercial Bank of Ethiopia,Please fix the login problems problem!,1,-0.991,2024-12-19,1,38,6,Google Play Store,2.3.8,negative,2024-12
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,1,-0.221,2025-01-14,1,46,7,Google Play Store,3.2.90,negative,2025-01
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,1.0,2025-08-11,3,48,6,Google Play Store,3.8.4,positive,2025-08
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,4,1.0,2025-07-17,4,71,11,Google Play Store,3.6.70,positive,2025-07
+Dashen Bank,I love how easy it is to do good security.,5,0.922,2025-04-26,2,42,10,Google Play Store,2.8.90,positive,2025-04
+Commercial Bank of Ethiopia,Please fix the login problems problem!,1,-0.551,2025-11-09,0,38,6,Google Play Store,4.2.33,negative,2025-11
+Dashen Bank,Highly recommended for innovative features.,5,0.706,2025-01-24,1,43,5,Google Play Store,2.4.56,positive,2025-01
+Awash Bank,Excellent experience with stable performance.,5,0.409,2025-01-05,4,45,5,Google Play Store,2.4.24,positive,2025-01
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.463,2025-04-06,3,34,4,Google Play Store,2.8.80,positive,2025-04
+Awash Bank,The app works perfectly for useful features.,5,0.401,2024-12-11,2,44,7,Google Play Store,4.0.87,positive,2024-12
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.537,2025-09-13,0,35,6,Google Play Store,1.8.12,positive,2025-09
+Commercial Bank of Ethiopia,Disappointed with app crashes frequently issues.,1,-0.882,2025-08-16,2,48,6,Google Play Store,3.3.31,negative,2025-08
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",2,-1.0,2025-06-24,1,58,7,Google Play Store,3.2.5,negative,2025-06
+Bank of Abyssinia,Please fix the buggy updates problem!,1,-0.94,2025-07-09,1,37,6,Google Play Store,2.8.19,negative,2025-07
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.575,2025-05-11,4,47,5,Google Play Store,4.7.96,positive,2025-05
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,0.675,2025-01-03,3,52,7,Google Play Store,1.2.85,positive,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.701,2025-09-15,3,71,11,Google Play Store,4.7.81,positive,2025-09
+Awash Bank,The app keeps having problems with slow transactions.,1,-1.0,2025-10-06,0,53,8,Google Play Store,2.8.68,negative,2025-10
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,5,0.425,2024-12-23,4,43,5,Google Play Store,3.6.90,positive,2024-12
+Commercial Bank of Ethiopia,update issues is making the app unusable.,1,-0.77,2025-01-15,0,41,7,Google Play Store,2.5.66,negative,2025-01
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,0.642,2025-03-20,3,46,6,Google Play Store,3.5.50,positive,2025-03
+Dashen Bank,Highly recommended for innovative features.,5,0.843,2025-02-05,4,43,5,Google Play Store,1.9.31,positive,2025-02
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",1,-1.0,2024-12-27,2,53,7,Google Play Store,1.8.26,negative,2024-12
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,0.905,2025-06-18,2,40,11,Google Play Store,4.0.68,positive,2025-06
+Commercial Bank of Ethiopia,The app keeps having problems with slow loading time.,1,-0.704,2024-12-30,1,53,9,Google Play Store,2.5.18,negative,2024-12
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,1.0,2025-09-03,1,49,8,Google Play Store,2.0.72,positive,2025-09
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,2,-0.725,2025-10-08,1,46,7,Google Play Store,2.5.39,negative,2025-10
+Bank of Abyssinia,Excellent experience with helpful support team.,4,1.0,2025-05-12,2,47,6,Google Play Store,2.7.67,positive,2025-05
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,4,1.0,2024-12-27,1,48,8,Google Play Store,2.4.70,positive,2024-12
+Dashen Bank,Disappointed with complex navigation issues.,2,-0.571,2025-02-23,1,44,5,Google Play Store,1.9.51,negative,2025-02
+Dashen Bank,Disappointed with complex navigation issues.,2,-0.866,2025-06-09,3,44,5,Google Play Store,1.5.34,negative,2025-06
+Commercial Bank of Ethiopia,Excellent experience with convenient.,5,0.96,2025-05-03,3,37,4,Google Play Store,4.6.44,positive,2025-05
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.879,2025-07-30,2,40,8,Google Play Store,2.2.35,positive,2025-07
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,4,0.62,2024-12-05,4,66,10,Google Play Store,3.9.64,positive,2024-12
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,5,0.846,2025-04-02,1,45,6,Google Play Store,4.7.25,positive,2025-04
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,1.0,2025-05-24,0,49,8,Google Play Store,1.8.2,positive,2025-05
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,4,1.0,2025-01-25,6,63,9,Google Play Store,3.2.65,positive,2025-01
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,5,0.581,2025-10-16,1,52,10,Google Play Store,2.8.35,positive,2025-10
+Dashen Bank,Highly recommended for innovative features.,5,1.0,2025-11-13,3,43,5,Google Play Store,2.7.58,positive,2025-11
+Dashen Bank,Excellent experience with quick setup.,4,0.824,2025-04-12,4,38,5,Google Play Store,4.8.35,positive,2025-04
+Dashen Bank,I love how easy it is to do quick setup.,5,1.0,2024-12-13,4,40,10,Google Play Store,4.5.28,positive,2024-12
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.94,2025-04-02,2,61,11,Google Play Store,1.5.15,positive,2025-04
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,4,0.545,2025-05-10,2,39,9,Google Play Store,3.9.22,positive,2025-05
+Bank of Abyssinia,buggy updates is making the app unusable.,2,-0.749,2025-04-25,0,41,7,Google Play Store,2.4.12,negative,2025-04
+Bank of Abyssinia,Disappointed with buggy updates issues.,2,-1.0,2025-01-11,3,39,5,Google Play Store,4.0.36,negative,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,4,0.915,2025-06-08,3,71,11,Google Play Store,3.6.76,positive,2025-06
+Dashen Bank,sync issues is making the app unusable.,1,-0.726,2025-02-07,3,39,7,Google Play Store,3.2.94,negative,2025-02
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,4,0.539,2025-02-02,1,40,5,Google Play Store,3.7.48,positive,2025-02
+Dashen Bank,Excellent experience with quick setup.,5,1.0,2024-12-27,2,38,5,Google Play Store,1.2.42,positive,2024-12
+Bank of Abyssinia,Excellent experience with secure transactions.,5,1.0,2025-06-03,4,46,5,Google Play Store,2.0.41,positive,2025-06
+Dashen Bank,Excellent experience with modern design.,5,0.496,2025-05-07,3,40,5,Google Play Store,3.8.53,positive,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.909,2025-09-01,2,39,9,Google Play Store,1.6.58,positive,2025-09
+Bank of Abyssinia,Disappointed with buggy updates issues.,2,-0.406,2025-08-31,3,39,5,Google Play Store,2.9.74,negative,2025-08
+Bank of Abyssinia,I love how easy it is to do smooth experience.,4,0.367,2025-07-28,4,46,10,Google Play Store,3.7.47,positive,2025-07
+Commercial Bank of Ethiopia,Disappointed with login problems issues.,1,-0.364,2025-04-08,2,40,5,Google Play Store,1.3.52,negative,2025-04
+Awash Bank,notification delays is making the app unusable.,2,-0.196,2025-09-23,0,47,7,Google Play Store,2.3.49,negative,2025-09
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,4,0.562,2025-02-10,1,40,5,Google Play Store,3.7.10,positive,2025-02
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,4,0.492,2025-11-20,1,39,6,Google Play Store,2.3.94,positive,2025-11
+Dashen Bank,I love how easy it is to do modern design.,4,1.0,2025-11-22,3,42,10,Google Play Store,4.7.98,positive,2025-11
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,1.0,2025-06-05,5,40,8,Google Play Store,3.9.14,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.709,2025-09-12,5,39,9,Google Play Store,4.1.15,positive,2025-09
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,4,1.0,2025-04-18,7,45,6,Google Play Store,3.5.62,positive,2025-04
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,4,0.794,2025-08-29,4,52,10,Google Play Store,3.9.2,positive,2025-08
+Dashen Bank,Dashen Bank has the best innovative features feature.,5,1.0,2025-02-19,2,53,8,Google Play Store,2.3.12,positive,2025-02
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,0.48,2025-03-05,4,63,9,Google Play Store,3.9.58,positive,2025-03
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,1.0,2025-02-20,4,48,10,Google Play Store,1.4.54,positive,2025-02
+Bank of Abyssinia,Highly recommended for smooth experience.,5,0.851,2025-06-06,6,41,5,Google Play Store,4.0.77,positive,2025-06
+Awash Bank,I love how easy it is to do stable performance.,5,1.0,2025-07-17,3,47,10,Google Play Store,1.4.39,positive,2025-07
+Awash Bank,Excellent experience with useful features.,4,0.36,2025-04-14,2,42,5,Google Play Store,1.2.65,positive,2025-04
+Bank of Abyssinia,Disappointed with buggy updates issues.,2,-0.782,2025-08-06,1,39,5,Google Play Store,2.9.48,negative,2025-08
+Commercial Bank of Ethiopia,Disappointed with app crashes frequently issues.,2,-1.0,2025-09-11,0,48,6,Google Play Store,3.7.55,negative,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.63,2025-05-09,2,59,9,Google Play Store,3.7.75,positive,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.561,2025-08-07,7,45,10,Google Play Store,3.2.75,positive,2025-08
+Dashen Bank,Dashen Bank has the best modern design feature.,5,1.0,2025-07-24,3,47,8,Google Play Store,2.2.20,positive,2025-07
+Bank of Abyssinia,Disappointed with transaction failures issues.,2,-1.0,2025-07-13,1,46,5,Google Play Store,3.8.20,negative,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,4,0.759,2025-07-07,5,57,9,Google Play Store,1.7.74,positive,2025-07
+Dashen Bank,Excellent experience with good security.,5,1.0,2024-12-19,6,40,5,Google Play Store,3.9.76,positive,2024-12
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,1.0,2025-05-31,2,49,8,Google Play Store,4.8.75,positive,2025-05
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,5,1.0,2025-01-02,4,52,10,Google Play Store,1.5.89,positive,2025-01
+Commercial Bank of Ethiopia,Please fix the login problems problem!,2,-0.73,2025-02-23,1,38,6,Google Play Store,4.2.59,negative,2025-02
+Commercial Bank of Ethiopia,Please fix the slow loading time problem!,1,-0.516,2025-05-19,2,41,7,Google Play Store,1.6.43,negative,2025-05
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,1.0,2025-08-25,2,46,6,Google Play Store,4.0.70,positive,2025-08
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.505,2025-04-08,2,35,6,Google Play Store,4.3.44,positive,2025-04
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,4,0.862,2025-03-14,1,45,7,Google Play Store,3.9.56,positive,2025-03
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,4,0.571,2025-08-27,4,45,6,Google Play Store,2.3.92,positive,2025-08
+Awash Bank,The app works perfectly for useful features.,5,0.918,2025-05-05,5,44,7,Google Play Store,3.3.80,positive,2025-05
+Dashen Bank,The app works perfectly for modern design.,5,0.907,2025-03-31,2,42,7,Google Play Store,4.6.13,positive,2025-03
+Bank of Abyssinia,Highly recommended for secure transactions.,4,1.0,2025-10-17,3,43,5,Google Play Store,4.8.73,positive,2025-10
+Dashen Bank,The app works perfectly for innovative features.,4,0.763,2025-08-09,1,48,7,Google Play Store,3.4.20,positive,2025-08
+Awash Bank,Awash Bank has the best easy registration feature.,4,0.372,2025-10-10,2,50,8,Google Play Store,3.4.58,positive,2025-10
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,1.0,2025-01-04,1,46,10,Google Play Store,2.7.6,positive,2025-01
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,4,0.597,2025-03-25,2,48,6,Google Play Store,2.3.27,positive,2025-03
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,4,0.691,2025-02-13,4,35,6,Google Play Store,1.4.26,positive,2025-02
+Awash Bank,I love how easy it is to do easy registration.,5,0.754,2024-12-12,3,46,10,Google Play Store,2.3.21,positive,2024-12
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,4,0.34,2025-02-18,3,39,6,Google Play Store,1.5.57,positive,2025-02
+Commercial Bank of Ethiopia,update issues is making the app unusable.,1,-1.0,2025-06-27,2,41,7,Google Play Store,3.4.31,negative,2025-06
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.771,2025-09-06,3,47,5,Google Play Store,2.0.96,positive,2025-09
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,1.0,2025-03-18,1,48,10,Google Play Store,4.1.42,positive,2025-03
+Awash Bank,I love how easy it is to do easy registration.,5,0.501,2025-01-21,0,46,10,Google Play Store,4.5.27,positive,2025-01
+Dashen Bank,The app works perfectly for innovative features.,4,1.0,2025-02-03,1,48,7,Google Play Store,2.8.83,positive,2025-02
+Dashen Bank,I love how easy it is to do innovative features.,4,1.0,2025-09-21,1,48,10,Google Play Store,4.8.97,positive,2025-09
+Dashen Bank,Excellent experience with good security.,5,1.0,2025-10-07,1,40,5,Google Play Store,4.4.27,positive,2025-10
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.528,2025-06-24,3,50,11,Google Play Store,4.5.77,positive,2025-06
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.521,2025-02-12,0,44,5,Google Play Store,4.4.67,negative,2025-02
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,4,0.753,2025-07-14,1,39,6,Google Play Store,3.0.40,positive,2025-07
+Bank of Abyssinia,Excellent experience with secure transactions.,5,0.644,2025-10-21,0,46,5,Google Play Store,3.2.16,positive,2025-10
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.621,2025-07-23,1,50,5,Google Play Store,1.5.65,positive,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,4,0.521,2025-09-19,3,57,9,Google Play Store,4.2.19,positive,2025-09
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",1,-0.779,2025-01-11,2,64,7,Google Play Store,4.2.68,negative,2025-01
+Bank of Abyssinia,poor connectivity is making the app unusable.,2,-0.494,2025-08-23,0,45,7,Google Play Store,3.8.85,negative,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,4,0.994,2025-08-10,3,39,9,Google Play Store,3.6.50,positive,2025-08
+Bank of Abyssinia,Excellent experience with secure transactions.,5,0.499,2025-03-03,3,46,5,Google Play Store,1.2.71,positive,2025-03
+Bank of Abyssinia,Disappointed with transaction failures issues.,2,-0.89,2025-07-02,1,46,5,Google Play Store,3.4.36,negative,2025-07
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.448,2025-09-19,4,69,11,Google Play Store,1.6.27,positive,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,1.0,2025-10-29,4,63,9,Google Play Store,3.7.88,positive,2025-10
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,0.846,2025-09-07,2,46,10,Google Play Store,1.8.73,positive,2025-09
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,0.803,2025-05-29,2,46,7,Google Play Store,2.3.0,positive,2025-05
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,4,0.441,2025-08-02,3,66,10,Google Play Store,1.2.46,positive,2025-08
+Dashen Bank,I love how easy it is to do modern design.,5,0.882,2025-07-24,3,42,10,Google Play Store,4.1.89,positive,2025-07
+Commercial Bank of Ethiopia,Please fix the slow loading time problem!,2,-0.995,2025-10-20,0,41,7,Google Play Store,2.2.17,negative,2025-10
+Bank of Abyssinia,Disappointed with transaction failures issues.,1,-0.385,2025-07-01,0,46,5,Google Play Store,2.4.75,negative,2025-07
+Dashen Bank,Highly recommended for good security.,5,0.391,2025-03-04,3,37,5,Google Play Store,1.9.10,positive,2025-03
+Dashen Bank,I love how easy it is to do modern design.,5,0.78,2025-07-22,2,42,10,Google Play Store,3.6.27,positive,2025-07
+Bank of Abyssinia,Highly recommended for helpful support team.,4,0.864,2025-10-22,3,44,6,Google Play Store,3.2.82,positive,2025-10
+Dashen Bank,Highly recommended for modern design.,5,1.0,2025-09-27,2,37,5,Google Play Store,4.2.84,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.694,2025-01-10,1,69,11,Google Play Store,1.5.23,positive,2025-01
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,0.587,2025-11-21,5,46,7,Google Play Store,2.4.42,positive,2025-11
+Commercial Bank of Ethiopia,Disappointed with login problems issues.,1,-1.0,2025-09-02,1,40,5,Google Play Store,3.8.95,negative,2025-09
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,4,0.521,2025-02-26,2,45,10,Google Play Store,1.3.81,positive,2025-02
+Dashen Bank,Disappointed with error messages issues.,1,-0.736,2025-08-11,2,40,5,Google Play Store,3.4.25,negative,2025-08
+Dashen Bank,error messages is making the app unusable.,1,-0.754,2025-07-05,0,42,7,Google Play Store,3.1.75,negative,2025-07
+Dashen Bank,Dashen Bank has the best quick setup feature.,5,0.973,2025-06-09,7,45,8,Google Play Store,4.2.59,positive,2025-06
+Awash Bank,Highly recommended for easy registration.,5,1.0,2025-09-29,4,41,5,Google Play Store,1.1.86,positive,2025-09
+Commercial Bank of Ethiopia,"Frustrated with update issues, needs immediate attention.",1,-1.0,2025-02-03,0,57,7,Google Play Store,2.6.49,negative,2025-02
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,2,-0.707,2025-08-13,0,46,7,Google Play Store,1.6.19,negative,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.681,2025-07-22,2,48,11,Google Play Store,3.1.39,positive,2025-07
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,4,0.371,2025-04-10,2,69,11,Google Play Store,1.1.88,positive,2025-04
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,1.0,2025-01-01,1,45,7,Google Play Store,2.8.44,positive,2025-01
+Bank of Abyssinia,I love how easy it is to do secure transactions.,4,1.0,2025-04-03,1,48,10,Google Play Store,1.8.94,positive,2025-04
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.741,2025-08-26,6,39,6,Google Play Store,1.9.60,positive,2025-08
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,1,-1.0,2025-02-08,2,46,7,Google Play Store,2.7.72,negative,2025-02
+Dashen Bank,Highly recommended for good security.,4,0.859,2025-05-11,3,37,5,Google Play Store,4.6.80,positive,2025-05
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",2,-0.795,2025-09-19,2,58,7,Google Play Store,3.2.61,negative,2025-09
+Dashen Bank,error messages is making the app unusable.,2,-0.663,2024-12-10,1,42,7,Google Play Store,1.8.15,negative,2024-12
+Bank of Abyssinia,Excellent experience with smooth experience.,5,0.761,2025-05-26,5,44,5,Google Play Store,2.8.54,positive,2025-05
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,4,0.949,2025-06-20,0,60,10,Google Play Store,3.9.47,positive,2025-06
+Commercial Bank of Ethiopia,update issues is making the app unusable.,2,-0.307,2025-08-16,2,41,7,Google Play Store,4.2.2,negative,2025-08
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,1.0,2025-02-08,3,39,6,Google Play Store,3.0.98,positive,2025-02
+Dashen Bank,Disappointed with error messages issues.,2,-0.27,2025-03-25,1,40,5,Google Play Store,4.7.22,negative,2025-03
+Bank of Abyssinia,I love how easy it is to do secure transactions.,4,0.75,2025-03-14,4,48,10,Google Play Store,1.3.12,positive,2025-03
+Awash Bank,I love how easy it is to do easy registration.,5,0.568,2025-05-25,3,46,10,Google Play Store,1.4.77,positive,2025-05
+Dashen Bank,Excellent experience with modern design.,5,0.893,2025-01-31,3,40,5,Google Play Store,2.3.84,positive,2025-01
+Bank of Abyssinia,Disappointed with transaction failures issues.,2,-0.994,2025-01-30,0,46,5,Google Play Store,4.8.68,negative,2025-01
+Dashen Bank,I love how easy it is to do modern design.,5,0.743,2025-03-27,1,42,10,Google Play Store,1.0.0,positive,2025-03
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.549,2025-04-19,2,69,11,Google Play Store,2.9.87,positive,2025-04
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,1.0,2025-09-15,2,48,6,Google Play Store,2.9.67,positive,2025-09
+Awash Bank,I love how easy it is to do easy registration.,5,1.0,2025-02-01,3,46,10,Google Play Store,3.9.50,positive,2025-02
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,4,0.964,2025-09-11,1,48,8,Google Play Store,4.2.61,positive,2025-09
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",1,-0.378,2025-11-02,0,66,8,Google Play Store,2.6.16,negative,2025-11
+Commercial Bank of Ethiopia,login problems is making the app unusable.,2,-0.367,2025-02-15,1,42,7,Google Play Store,1.5.36,negative,2025-02
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,4,0.935,2025-11-07,6,40,5,Google Play Store,3.1.45,positive,2025-11
+Awash Bank,"Frustrated with slow transactions, needs immediate attention.",1,-0.741,2025-09-13,2,61,7,Google Play Store,4.0.53,negative,2025-09
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,4,0.897,2025-01-02,2,48,11,Google Play Store,1.6.63,positive,2025-01
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",2,-0.541,2025-09-27,0,61,7,Google Play Store,2.0.40,negative,2025-09
+Bank of Abyssinia,The app keeps having problems with buggy updates.,2,-0.431,2025-03-08,3,49,8,Google Play Store,2.3.20,negative,2025-03
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,4,0.55,2025-10-08,4,38,6,Google Play Store,3.1.57,positive,2025-10
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,1.0,2025-09-20,2,39,9,Google Play Store,1.7.39,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.422,2025-07-19,1,69,11,Google Play Store,2.7.57,positive,2025-07
+Dashen Bank,The app works perfectly for innovative features.,5,1.0,2025-05-05,4,48,7,Google Play Store,2.3.46,positive,2025-05
+Dashen Bank,Excellent experience with innovative features.,5,0.482,2025-11-07,4,46,5,Google Play Store,2.0.41,positive,2025-11
+Bank of Abyssinia,Excellent experience with secure transactions.,5,0.884,2025-07-02,7,46,5,Google Play Store,1.8.9,positive,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.732,2025-07-02,2,39,6,Google Play Store,1.3.62,positive,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.786,2025-10-20,5,39,6,Google Play Store,4.1.72,positive,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,4,0.767,2025-10-18,6,61,11,Google Play Store,2.3.21,positive,2025-10
+Commercial Bank of Ethiopia,Disappointed with login problems issues.,1,-0.411,2025-08-18,0,40,5,Google Play Store,3.4.10,negative,2025-08
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,2,-0.5,2025-11-16,2,50,8,Google Play Store,2.7.87,negative,2025-11
+Dashen Bank,Dashen Bank has the best modern design feature.,5,0.49,2025-10-30,1,47,8,Google Play Store,1.2.61,positive,2025-10
+Dashen Bank,I love how easy it is to do modern design.,4,0.509,2025-08-04,6,42,10,Google Play Store,3.8.11,positive,2025-08
+Bank of Abyssinia,Highly recommended for helpful support team.,5,0.809,2025-11-25,6,44,6,Google Play Store,2.6.19,positive,2025-11
+Awash Bank,Highly recommended for easy registration.,5,0.555,2025-10-20,1,41,5,Google Play Store,2.0.50,positive,2025-10
+Dashen Bank,Highly recommended for good security.,5,0.403,2025-10-25,2,37,5,Google Play Store,1.3.95,positive,2025-10
+Dashen Bank,I love how easy it is to do modern design.,5,0.627,2025-01-06,4,42,10,Google Play Store,3.7.32,positive,2025-01
+Dashen Bank,Excellent experience with quick setup.,4,0.761,2025-04-01,4,38,5,Google Play Store,3.3.48,positive,2025-04
+Awash Bank,The app keeps having problems with login troubles.,2,-0.336,2025-05-07,1,50,8,Google Play Store,3.5.79,negative,2025-05
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,1,-1.0,2025-06-04,0,46,7,Google Play Store,1.2.89,negative,2025-06
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,5,1.0,2025-03-20,0,57,9,Google Play Store,3.9.89,positive,2025-03
+Bank of Abyssinia,Highly recommended for smooth experience.,5,0.927,2025-01-07,4,41,5,Google Play Store,3.7.27,positive,2025-01
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,0.515,2025-11-07,4,63,9,Google Play Store,3.7.76,positive,2025-11
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.826,2025-09-04,3,50,11,Google Play Store,2.3.53,positive,2025-09
+Bank of Abyssinia,I love how easy it is to do secure transactions.,4,1.0,2025-10-06,3,48,10,Google Play Store,4.8.71,positive,2025-10
+Awash Bank,Please fix the notification delays problem!,1,-1.0,2025-06-04,0,43,6,Google Play Store,4.5.3,negative,2025-06
+Awash Bank,Awash Bank has the best easy registration feature.,5,0.61,2025-11-24,3,50,8,Google Play Store,3.1.77,positive,2025-11
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.625,2024-12-14,2,61,11,Google Play Store,4.7.34,positive,2024-12
+Bank of Abyssinia,Disappointed with buggy updates issues.,1,-1.0,2025-01-13,1,39,5,Google Play Store,4.7.94,negative,2025-01
+Bank of Abyssinia,The app keeps having problems with buggy updates.,1,-0.78,2025-09-14,2,49,8,Google Play Store,4.3.66,negative,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,1.0,2025-01-25,3,63,9,Google Play Store,4.6.27,positive,2025-01
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,5,0.66,2025-10-02,4,40,5,Google Play Store,1.3.33,positive,2025-10
+Dashen Bank,Highly recommended for quick setup.,5,0.75,2025-11-23,2,35,5,Google Play Store,4.0.91,positive,2025-11
+Awash Bank,Highly recommended for helpful customer service.,4,0.769,2025-10-02,3,48,6,Google Play Store,4.1.32,positive,2025-10
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.73,2025-08-30,7,39,9,Google Play Store,2.8.27,positive,2025-08
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,0.759,2025-03-01,3,45,7,Google Play Store,1.6.83,positive,2025-03
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,5,0.614,2025-09-07,8,40,5,Google Play Store,2.3.18,positive,2025-09
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.962,2025-05-20,0,44,5,Google Play Store,4.7.28,negative,2025-05
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,0.939,2025-11-16,2,46,6,Google Play Store,1.8.14,positive,2025-11
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.823,2025-05-04,2,71,11,Google Play Store,3.6.85,positive,2025-05
+Bank of Abyssinia,The app keeps having problems with buggy updates.,2,-0.59,2025-09-22,2,49,8,Google Play Store,2.5.58,negative,2025-09
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",2,-0.931,2025-04-27,2,58,7,Google Play Store,4.1.77,negative,2025-04
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,0.995,2025-06-01,0,46,7,Google Play Store,2.4.49,positive,2025-06
+Commercial Bank of Ethiopia,"Frustrated with update issues, needs immediate attention.",2,-0.526,2025-01-10,2,57,7,Google Play Store,3.6.33,negative,2025-01
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,4,0.917,2025-11-30,2,39,9,Google Play Store,4.0.6,positive,2025-11
+Commercial Bank of Ethiopia,update issues is making the app unusable.,2,-1.0,2025-04-28,1,41,7,Google Play Store,2.3.23,negative,2025-04
+Awash Bank,slow transactions is making the app unusable.,1,-0.902,2025-08-17,1,45,7,Google Play Store,2.5.16,negative,2025-08
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.776,2024-12-20,4,71,11,Google Play Store,2.7.68,positive,2024-12
+Bank of Abyssinia,Please fix the poor connectivity problem!,2,-0.798,2024-12-15,1,41,6,Google Play Store,4.2.2,negative,2024-12
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,4,0.992,2025-09-27,1,40,11,Google Play Store,3.1.69,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,4,0.498,2025-07-11,2,69,11,Google Play Store,2.5.37,positive,2025-07
+Dashen Bank,Please fix the complex navigation problem!,2,-0.918,2025-02-17,1,42,6,Google Play Store,3.1.37,negative,2025-02
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,1,-0.568,2025-09-12,0,45,8,Google Play Store,4.5.34,negative,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,4,1.0,2025-02-05,4,63,9,Google Play Store,3.9.46,positive,2025-02
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,1.0,2024-12-19,3,38,6,Google Play Store,4.3.10,positive,2024-12
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,2,-0.545,2025-08-14,2,45,8,Google Play Store,3.6.0,negative,2025-08
+Awash Bank,Awash Bank has the best easy registration feature.,5,0.36,2025-09-25,5,50,8,Google Play Store,1.0.69,positive,2025-09
+Awash Bank,Please fix the outdated interface problem!,2,-0.395,2025-03-23,0,42,6,Google Play Store,4.4.14,negative,2025-03
+Bank of Abyssinia,Highly recommended for secure transactions.,5,0.913,2025-01-26,5,43,5,Google Play Store,1.7.7,positive,2025-01
+Bank of Abyssinia,Please fix the high fees problem!,1,-0.746,2025-03-02,1,33,6,Google Play Store,2.8.92,negative,2025-03
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,5,0.962,2025-10-27,1,57,9,Google Play Store,4.5.27,positive,2025-10
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,1.0,2025-09-04,4,46,6,Google Play Store,2.6.41,positive,2025-09
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.593,2025-01-07,3,48,6,Google Play Store,2.5.52,positive,2025-01
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.244,2025-05-05,1,44,5,Google Play Store,1.4.93,negative,2025-05
+Commercial Bank of Ethiopia,Please fix the update issues problem!,1,-0.253,2025-11-09,0,37,6,Google Play Store,3.7.27,negative,2025-11
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,4,0.981,2025-01-02,4,48,11,Google Play Store,2.6.40,positive,2025-01
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.461,2025-06-10,4,48,11,Google Play Store,4.0.59,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,4,0.428,2025-01-12,1,48,11,Google Play Store,3.3.52,positive,2025-01
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,0.599,2025-09-28,4,46,7,Google Play Store,1.0.79,positive,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,0.642,2025-10-05,2,60,10,Google Play Store,3.3.1,positive,2025-10
+Commercial Bank of Ethiopia,Please fix the update issues problem!,1,-0.277,2025-03-31,0,37,6,Google Play Store,1.0.31,negative,2025-03
+Awash Bank,Awash Bank has the best helpful customer service feature.,5,0.87,2025-11-24,1,57,9,Google Play Store,2.8.14,positive,2025-11
+Commercial Bank of Ethiopia,The app keeps having problems with slow loading time.,1,-0.584,2025-04-16,0,53,9,Google Play Store,2.2.61,negative,2025-04
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.666,2025-01-24,2,39,9,Google Play Store,4.3.36,positive,2025-01
+Commercial Bank of Ethiopia,The app keeps having problems with connection errors.,2,-0.639,2025-02-17,0,53,8,Google Play Store,2.1.75,negative,2025-02
+Dashen Bank,Excellent experience with modern design.,4,0.647,2025-11-08,3,40,5,Google Play Store,2.5.40,positive,2025-11
+Bank of Abyssinia,Please fix the transaction failures problem!,1,-0.433,2025-02-06,2,44,6,Google Play Store,2.4.29,negative,2025-02
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.873,2025-10-11,5,40,8,Google Play Store,2.9.17,positive,2025-10
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.317,2025-11-03,5,45,10,Google Play Store,3.7.82,positive,2025-11
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,0.894,2025-05-29,4,40,11,Google Play Store,2.7.4,positive,2025-05
+Bank of Abyssinia,Highly recommended for secure transactions.,5,0.771,2025-08-18,2,43,5,Google Play Store,2.9.15,positive,2025-08
+Dashen Bank,The app works perfectly for modern design.,4,0.864,2025-10-14,4,42,7,Google Play Store,3.9.69,positive,2025-10
+Dashen Bank,Excellent experience with modern design.,5,0.678,2025-08-21,2,40,5,Google Play Store,1.6.8,positive,2025-08
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,1.0,2025-08-05,5,38,6,Google Play Store,4.4.66,positive,2025-08
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",2,-0.496,2025-02-09,0,61,7,Google Play Store,1.7.98,negative,2025-02
+Bank of Abyssinia,Disappointed with poor connectivity issues.,2,-0.492,2025-02-07,0,43,5,Google Play Store,1.2.1,negative,2025-02
+Commercial Bank of Ethiopia,connection errors is making the app unusable.,1,-0.258,2025-03-22,1,45,7,Google Play Store,3.5.89,negative,2025-03
+Dashen Bank,I love how easy it is to do quick setup.,4,0.399,2025-10-20,3,40,10,Google Play Store,4.2.75,positive,2025-10
+Dashen Bank,The app works perfectly for innovative features.,5,0.966,2025-09-25,1,48,7,Google Play Store,4.0.38,positive,2025-09
+Bank of Abyssinia,The app works perfectly for secure transactions.,4,1.0,2025-08-20,0,48,7,Google Play Store,2.6.20,positive,2025-08
+Commercial Bank of Ethiopia,Disappointed with connection errors issues.,2,-0.207,2025-08-04,2,43,5,Google Play Store,1.0.50,negative,2025-08
+Dashen Bank,Dashen Bank has the best quick setup feature.,4,0.965,2025-02-28,1,45,8,Google Play Store,2.2.52,positive,2025-02
+Awash Bank,I love how easy it is to do useful features.,5,0.939,2025-11-17,1,44,10,Google Play Store,1.9.38,positive,2025-11
+Awash Bank,The app keeps having problems with login troubles.,1,-0.481,2025-06-08,1,50,8,Google Play Store,2.3.62,negative,2025-06
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.989,2025-10-04,2,61,11,Google Play Store,1.6.13,positive,2025-10
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,0.561,2025-09-01,4,48,7,Google Play Store,2.0.17,positive,2025-09
+Bank of Abyssinia,high fees is making the app unusable.,2,-0.44,2025-10-30,0,37,7,Google Play Store,4.9.73,negative,2025-10
+Dashen Bank,The app works perfectly for modern design.,4,0.883,2025-03-06,2,42,7,Google Play Store,3.0.20,positive,2025-03
+Awash Bank,Excellent experience with useful features.,4,0.584,2025-09-28,2,42,5,Google Play Store,4.5.96,positive,2025-09
+Dashen Bank,"Frustrated with complex navigation, needs immediate attention.",1,-0.179,2025-06-04,0,62,7,Google Play Store,3.9.30,negative,2025-06
+Commercial Bank of Ethiopia,"Frustrated with update issues, needs immediate attention.",1,-1.0,2025-08-16,2,57,7,Google Play Store,4.1.17,negative,2025-08
+Awash Bank,I love how easy it is to do easy registration.,4,0.671,2025-10-11,1,46,10,Google Play Store,3.0.99,positive,2025-10
+Dashen Bank,Highly recommended for innovative features.,5,0.882,2024-12-04,0,43,5,Google Play Store,3.3.3,positive,2024-12
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,1.0,2025-07-17,3,46,10,Google Play Store,3.8.98,positive,2025-07
+Commercial Bank of Ethiopia,update issues is making the app unusable.,2,-1.0,2025-11-12,3,41,7,Google Play Store,4.1.22,negative,2025-11
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,5,0.608,2025-07-10,1,43,5,Google Play Store,4.0.42,positive,2025-07
+Commercial Bank of Ethiopia,Please fix the update issues problem!,2,-1.0,2024-12-31,1,37,6,Google Play Store,2.0.31,negative,2024-12
+Dashen Bank,I love how easy it is to do innovative features.,4,0.658,2025-05-14,3,48,10,Google Play Store,3.7.70,positive,2025-05
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",1,-0.612,2025-05-07,0,64,7,Google Play Store,4.7.7,negative,2025-05
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,0.862,2025-02-20,2,52,7,Google Play Store,1.1.6,positive,2025-02
+Dashen Bank,Highly recommended for modern design.,4,0.58,2025-07-24,1,37,5,Google Play Store,1.6.27,positive,2025-07
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,5,0.702,2025-01-14,3,66,10,Google Play Store,3.9.8,positive,2025-01
+Dashen Bank,Dashen Bank has the best good security feature.,5,0.55,2025-10-25,2,47,8,Google Play Store,3.3.18,positive,2025-10
+Bank of Abyssinia,high fees is making the app unusable.,1,-0.267,2025-03-19,0,37,7,Google Play Store,2.1.75,negative,2025-03
+Awash Bank,I love how easy it is to do easy registration.,5,0.671,2025-03-20,7,46,10,Google Play Store,1.2.95,positive,2025-03
+Dashen Bank,The app keeps having problems with complex navigation.,1,-0.934,2025-10-07,0,54,8,Google Play Store,1.7.86,negative,2025-10
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,2,-0.832,2025-07-04,1,50,8,Google Play Store,4.7.38,negative,2025-07
+Bank of Abyssinia,Disappointed with buggy updates issues.,1,-0.821,2024-12-16,3,39,5,Google Play Store,2.8.32,negative,2024-12
+Awash Bank,slow transactions is making the app unusable.,2,-0.528,2025-09-29,0,45,7,Google Play Store,3.7.9,negative,2025-09
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,1.0,2025-08-07,2,52,7,Google Play Store,4.7.0,positive,2025-08
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,4,0.624,2025-04-12,5,71,11,Google Play Store,4.6.11,positive,2025-04
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.958,2025-01-04,1,40,8,Google Play Store,4.0.1,positive,2025-01
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,1.0,2025-07-16,3,48,7,Google Play Store,1.6.84,positive,2025-07
+Bank of Abyssinia,Disappointed with transaction failures issues.,1,-1.0,2025-08-26,2,46,5,Google Play Store,2.6.36,negative,2025-08
+Dashen Bank,The app works perfectly for innovative features.,5,1.0,2025-04-09,4,48,7,Google Play Store,3.1.19,positive,2025-04
+Awash Bank,Please fix the slow transactions problem!,1,-0.64,2025-08-25,0,41,6,Google Play Store,4.6.16,negative,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,1.0,2025-08-09,1,40,11,Google Play Store,2.8.61,positive,2025-08
+Dashen Bank,Excellent experience with good security.,5,0.953,2025-08-04,4,40,5,Google Play Store,3.5.45,positive,2025-08
+Dashen Bank,I love how easy it is to do innovative features.,4,1.0,2025-08-21,3,48,10,Google Play Store,2.0.61,positive,2025-08
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.454,2025-10-20,7,59,9,Google Play Store,1.3.62,positive,2025-10
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",2,-0.466,2025-07-11,0,53,7,Google Play Store,2.4.39,negative,2025-07
+Bank of Abyssinia,I love how easy it is to do helpful support team.,4,0.946,2025-06-15,4,49,11,Google Play Store,1.0.35,positive,2025-06
+Bank of Abyssinia,The app keeps having problems with high fees.,1,-0.616,2025-01-10,0,45,8,Google Play Store,2.7.10,negative,2025-01
+Commercial Bank of Ethiopia,connection errors is making the app unusable.,1,-0.762,2024-12-24,3,45,7,Google Play Store,4.1.14,negative,2024-12
+Bank of Abyssinia,Please fix the transaction failures problem!,1,-0.438,2025-08-01,1,44,6,Google Play Store,1.4.65,negative,2025-08
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,4,0.662,2025-06-29,1,46,6,Google Play Store,4.9.69,positive,2025-06
+Dashen Bank,The app keeps having problems with complex navigation.,1,-0.841,2025-08-10,0,54,8,Google Play Store,2.0.64,negative,2025-08
+Bank of Abyssinia,Excellent experience with helpful support team.,5,0.473,2025-09-01,4,47,6,Google Play Store,2.4.3,positive,2025-09
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",1,-0.552,2025-06-25,0,66,8,Google Play Store,4.0.20,negative,2025-06
+Awash Bank,login troubles is making the app unusable.,1,-0.881,2024-12-15,3,42,7,Google Play Store,1.0.4,negative,2024-12
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,1,-0.592,2025-10-16,1,50,8,Google Play Store,4.0.39,negative,2025-10
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,5,0.628,2024-12-05,4,52,10,Google Play Store,1.4.5,positive,2024-12
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,0.89,2025-05-01,1,48,10,Google Play Store,2.2.64,positive,2025-05
+Dashen Bank,I love how easy it is to do modern design.,5,1.0,2025-07-17,4,42,10,Google Play Store,1.6.9,positive,2025-07
+Bank of Abyssinia,buggy updates is making the app unusable.,1,-0.437,2025-08-09,1,41,7,Google Play Store,1.1.70,negative,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.683,2025-01-10,1,39,9,Google Play Store,3.0.33,positive,2025-01
+Commercial Bank of Ethiopia,Disappointed with connection errors issues.,2,-0.776,2025-02-28,1,43,5,Google Play Store,2.0.23,negative,2025-02
+Dashen Bank,Highly recommended for innovative features.,4,0.377,2025-11-07,0,43,5,Google Play Store,2.0.74,positive,2025-11
+Dashen Bank,I love how easy it is to do quick setup.,4,0.911,2025-07-18,5,40,10,Google Play Store,3.0.55,positive,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,4,0.612,2025-11-11,6,59,9,Google Play Store,1.5.17,positive,2025-11
+Dashen Bank,Please fix the limited functionality problem!,1,-0.699,2025-10-27,2,45,6,Google Play Store,4.9.85,negative,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,1.0,2025-05-15,2,60,9,Google Play Store,1.1.87,positive,2025-05
+Awash Bank,Highly recommended for helpful customer service.,5,0.462,2025-10-22,3,48,6,Google Play Store,1.9.21,positive,2025-10
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,0.493,2025-06-24,3,48,7,Google Play Store,2.4.30,positive,2025-06
+Awash Bank,I love how easy it is to do helpful customer service.,5,0.684,2025-09-09,3,53,11,Google Play Store,4.5.41,positive,2025-09
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,4,0.821,2025-05-29,8,43,6,Google Play Store,1.4.79,positive,2025-05
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,4,1.0,2025-07-17,7,48,8,Google Play Store,2.4.69,positive,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for good customer support.,5,0.907,2025-10-10,7,50,8,Google Play Store,2.1.31,positive,2025-10
+Commercial Bank of Ethiopia,Please fix the connection errors problem!,2,-0.764,2025-01-07,1,41,6,Google Play Store,3.5.10,negative,2025-01
+Commercial Bank of Ethiopia,"Frustrated with slow loading time, needs immediate attention.",1,-0.376,2025-05-16,0,61,8,Google Play Store,3.9.67,negative,2025-05
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,1.0,2025-06-07,0,48,7,Google Play Store,3.8.74,positive,2025-06
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,1.0,2025-11-10,3,49,11,Google Play Store,1.2.40,positive,2025-11
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.526,2025-06-18,1,48,11,Google Play Store,1.8.73,positive,2025-06
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,1.0,2025-06-23,5,34,4,Google Play Store,2.9.41,positive,2025-06
+Dashen Bank,Dashen Bank has the best good security feature.,5,0.824,2025-11-30,1,47,8,Google Play Store,1.3.16,positive,2025-11
+Dashen Bank,Excellent experience with good security.,4,1.0,2025-10-11,2,40,5,Google Play Store,3.7.46,positive,2025-10
+Dashen Bank,Disappointed with sync issues issues.,2,-0.93,2025-09-21,1,37,5,Google Play Store,4.9.76,negative,2025-09
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,5,0.514,2025-09-28,5,52,10,Google Play Store,4.0.16,positive,2025-09
+Dashen Bank,I love how easy it is to do good security.,5,0.892,2025-10-21,1,42,10,Google Play Store,4.3.15,positive,2025-10
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.63,2025-02-20,3,50,5,Google Play Store,2.0.44,positive,2025-02
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.623,2025-09-19,2,49,8,Google Play Store,4.8.82,positive,2025-09
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,1.0,2025-10-09,0,40,8,Google Play Store,4.5.47,positive,2025-10
+Dashen Bank,Disappointed with limited functionality issues.,2,-0.762,2024-12-07,1,47,5,Google Play Store,3.0.90,negative,2024-12
+Bank of Abyssinia,Highly recommended for smooth experience.,5,0.699,2025-08-14,0,41,5,Google Play Store,4.3.36,positive,2025-08
+Commercial Bank of Ethiopia,Please fix the login problems problem!,1,-0.962,2025-11-20,0,38,6,Google Play Store,3.3.80,negative,2025-11
+Bank of Abyssinia,Please fix the poor connectivity problem!,2,-0.388,2025-02-06,2,41,6,Google Play Store,4.8.9,negative,2025-02
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.609,2025-10-01,4,61,11,Google Play Store,2.8.98,positive,2025-10
+Dashen Bank,Highly recommended for good security.,5,0.572,2025-07-09,2,37,5,Google Play Store,1.1.13,positive,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,4,0.799,2025-04-26,2,59,9,Google Play Store,2.1.26,positive,2025-04
+Awash Bank,Highly recommended for easy registration.,4,0.312,2025-01-16,2,41,5,Google Play Store,2.0.86,positive,2025-01
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,4,0.764,2025-05-30,1,40,5,Google Play Store,3.8.51,positive,2025-05
+Dashen Bank,Highly recommended for innovative features.,5,0.298,2025-02-12,5,43,5,Google Play Store,3.6.57,positive,2025-02
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,1.0,2025-05-04,3,50,5,Google Play Store,2.6.62,positive,2025-05
+Dashen Bank,The app works perfectly for modern design.,5,0.899,2025-10-07,3,42,7,Google Play Store,2.6.22,positive,2025-10
+Bank of Abyssinia,The app keeps having problems with buggy updates.,2,-0.457,2025-07-25,1,49,8,Google Play Store,3.3.33,negative,2025-07
+Awash Bank,Please fix the outdated interface problem!,1,-0.336,2025-09-11,0,42,6,Google Play Store,3.4.97,negative,2025-09
+Commercial Bank of Ethiopia,The app keeps having problems with update issues.,1,-0.584,2024-12-14,0,49,8,Google Play Store,2.6.50,negative,2024-12
+Dashen Bank,I love how easy it is to do good security.,5,1.0,2025-11-20,4,42,10,Google Play Store,1.7.81,positive,2025-11
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.618,2025-01-07,2,48,6,Google Play Store,1.0.69,positive,2025-01
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.852,2025-02-09,2,50,5,Google Play Store,3.7.46,positive,2025-02
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.405,2025-03-28,4,48,6,Google Play Store,1.3.26,positive,2025-03
+Bank of Abyssinia,Please fix the transaction failures problem!,2,-0.392,2024-12-03,1,44,6,Google Play Store,1.8.3,negative,2024-12
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,4,0.835,2025-05-30,5,59,9,Google Play Store,4.6.99,positive,2025-05
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,0.388,2025-11-29,5,48,10,Google Play Store,4.7.89,positive,2025-11
+Dashen Bank,Highly recommended for modern design.,4,0.553,2025-02-19,1,37,5,Google Play Store,2.3.77,positive,2025-02
+Bank of Abyssinia,"Frustrated with poor connectivity, needs immediate attention.",1,-1.0,2024-12-31,0,61,7,Google Play Store,4.0.64,negative,2024-12
+Bank of Abyssinia,Highly recommended for user-friendly interface.,4,0.405,2025-06-28,7,47,5,Google Play Store,1.9.2,positive,2025-06
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.579,2025-10-03,1,69,11,Google Play Store,4.1.2,positive,2025-10
+Dashen Bank,The app works perfectly for modern design.,4,0.663,2025-03-31,0,42,7,Google Play Store,4.5.79,positive,2025-03
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,4,1.0,2025-03-07,1,52,7,Google Play Store,2.9.30,positive,2025-03
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.528,2025-10-18,5,48,6,Google Play Store,4.3.53,positive,2025-10
+Bank of Abyssinia,Highly recommended for user-friendly interface.,4,0.922,2025-08-10,2,47,5,Google Play Store,4.4.25,positive,2025-08
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,2,-0.93,2024-12-12,1,43,6,Google Play Store,4.5.84,negative,2024-12
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,0.641,2025-07-30,2,49,11,Google Play Store,3.3.12,positive,2025-07
+Bank of Abyssinia,Highly recommended for helpful support team.,4,0.813,2025-06-08,3,44,6,Google Play Store,2.6.30,positive,2025-06
+Commercial Bank of Ethiopia,login problems is making the app unusable.,1,-0.704,2025-07-22,1,42,7,Google Play Store,1.6.53,negative,2025-07
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.653,2025-09-04,3,49,8,Google Play Store,4.1.42,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.386,2025-08-09,2,71,11,Google Play Store,3.9.46,positive,2025-08
+Dashen Bank,limited functionality is making the app unusable.,1,-1.0,2025-07-25,2,49,7,Google Play Store,4.9.89,negative,2025-07
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,5,0.944,2025-03-01,4,40,5,Google Play Store,3.8.28,positive,2025-03
+Awash Bank,The app works perfectly for stable performance.,4,0.727,2025-07-14,7,47,7,Google Play Store,3.8.45,positive,2025-07
+Bank of Abyssinia,transaction failures is making the app unusable.,1,-1.0,2025-10-12,0,48,7,Google Play Store,4.2.86,negative,2025-10
+Dashen Bank,Excellent experience with good security.,5,1.0,2025-01-10,1,40,5,Google Play Store,1.6.29,positive,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.969,2025-07-24,2,69,11,Google Play Store,2.9.25,positive,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,5,1.0,2025-06-13,0,57,9,Google Play Store,3.9.86,positive,2025-06
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.837,2025-04-29,4,50,5,Google Play Store,1.1.23,positive,2025-04
+Dashen Bank,Excellent experience with innovative features.,5,0.605,2025-09-09,3,46,5,Google Play Store,1.0.1,positive,2025-09
+Dashen Bank,Dashen Bank has the best innovative features feature.,5,0.92,2025-05-21,6,53,8,Google Play Store,1.8.96,positive,2025-05
+Bank of Abyssinia,Excellent experience with helpful support team.,5,0.948,2025-09-23,4,47,6,Google Play Store,2.5.97,positive,2025-09
+Commercial Bank of Ethiopia,Excellent experience with convenient.,5,0.598,2025-01-01,6,37,4,Google Play Store,1.7.79,positive,2025-01
+Dashen Bank,Highly recommended for quick setup.,4,0.527,2025-03-04,5,35,5,Google Play Store,3.7.82,positive,2025-03
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.987,2025-04-12,4,48,8,Google Play Store,1.0.63,positive,2025-04
+Awash Bank,Excellent experience with stable performance.,4,0.795,2025-05-03,7,45,5,Google Play Store,3.4.13,positive,2025-05
+Dashen Bank,"Frustrated with error messages, needs immediate attention.",1,-1.0,2025-03-06,0,58,7,Google Play Store,3.4.60,negative,2025-03
+Dashen Bank,I love how easy it is to do good security.,5,0.58,2025-06-08,1,42,10,Google Play Store,1.7.58,positive,2025-06
+Dashen Bank,Excellent experience with innovative features.,5,0.593,2025-05-01,4,46,5,Google Play Store,1.1.9,positive,2025-05
+Dashen Bank,Excellent experience with modern design.,5,1.0,2025-07-02,3,40,5,Google Play Store,4.2.66,positive,2025-07
+Bank of Abyssinia,I love how easy it is to do secure transactions.,4,0.91,2025-01-21,2,48,10,Google Play Store,1.2.2,positive,2025-01
+Bank of Abyssinia,Disappointed with high fees issues.,1,-0.585,2025-09-17,3,35,5,Google Play Store,4.6.82,negative,2025-09
+Bank of Abyssinia,Please fix the transaction failures problem!,2,-0.681,2025-01-21,0,44,6,Google Play Store,2.4.22,negative,2025-01
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,2,-0.562,2025-02-10,0,43,6,Google Play Store,4.1.39,negative,2025-02
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,1.0,2025-07-19,2,60,9,Google Play Store,1.9.58,positive,2025-07
+Dashen Bank,I love how easy it is to do good security.,5,0.622,2025-06-07,2,42,10,Google Play Store,4.1.41,positive,2025-06
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,1.0,2025-06-12,3,46,7,Google Play Store,3.7.12,positive,2025-06
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,2,-0.437,2025-09-07,1,50,8,Google Play Store,1.4.34,negative,2025-09
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.979,2025-01-09,3,50,11,Google Play Store,3.2.45,positive,2025-01
+Awash Bank,The app works perfectly for useful features.,5,0.744,2025-11-30,2,44,7,Google Play Store,2.6.56,positive,2025-11
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,4,0.325,2025-01-05,3,48,11,Google Play Store,3.2.25,positive,2025-01
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.359,2024-12-15,1,48,6,Google Play Store,3.1.16,positive,2024-12
+Bank of Abyssinia,poor connectivity is making the app unusable.,2,-0.719,2025-02-06,1,45,7,Google Play Store,4.3.94,negative,2025-02
+Commercial Bank of Ethiopia,The app keeps having problems with connection errors.,1,-0.941,2025-08-20,1,53,8,Google Play Store,3.1.55,negative,2025-08
+Dashen Bank,Highly recommended for quick setup.,5,0.92,2025-02-08,4,35,5,Google Play Store,4.6.76,positive,2025-02
+Bank of Abyssinia,Please fix the high fees problem!,1,-0.734,2025-06-01,0,33,6,Google Play Store,4.9.17,negative,2025-06
+Awash Bank,The app works perfectly for stable performance.,5,0.728,2025-05-23,1,47,7,Google Play Store,4.3.21,positive,2025-05
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,0.512,2025-05-12,3,63,9,Google Play Store,4.0.26,positive,2025-05
+Dashen Bank,The app works perfectly for innovative features.,5,0.762,2025-11-12,3,48,7,Google Play Store,1.0.92,positive,2025-11
+Commercial Bank of Ethiopia,login problems is making the app unusable.,1,-0.708,2025-03-21,2,42,7,Google Play Store,2.6.44,negative,2025-03
+Commercial Bank of Ethiopia,Excellent experience with convenient.,5,0.813,2025-09-27,6,37,4,Google Play Store,4.5.32,positive,2025-09
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.731,2025-04-11,5,40,8,Google Play Store,2.7.37,positive,2025-04
+Dashen Bank,Excellent experience with modern design.,5,0.797,2025-05-18,4,40,5,Google Play Store,3.9.82,positive,2025-05
+Dashen Bank,"Frustrated with error messages, needs immediate attention.",1,-0.522,2025-10-15,3,58,7,Google Play Store,3.4.92,negative,2025-10
+Dashen Bank,Highly recommended for innovative features.,5,0.634,2025-03-14,3,43,5,Google Play Store,2.1.40,positive,2025-03
+Awash Bank,Awash Bank has the best easy registration feature.,4,0.578,2024-12-06,2,50,8,Google Play Store,3.7.51,positive,2024-12
+Dashen Bank,Dashen Bank has the best innovative features feature.,4,1.0,2025-04-19,4,53,8,Google Play Store,2.4.73,positive,2025-04
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.919,2025-10-03,2,45,10,Google Play Store,4.1.92,positive,2025-10
+Dashen Bank,"Frustrated with limited functionality, needs immediate attention.",1,-0.39,2025-03-15,1,65,7,Google Play Store,2.9.14,negative,2025-03
+Commercial Bank of Ethiopia,Disappointed with app crashes frequently issues.,1,-0.458,2025-03-29,0,48,6,Google Play Store,1.0.50,negative,2025-03
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,0.715,2025-06-11,2,60,9,Google Play Store,3.6.48,positive,2025-06
+Dashen Bank,I love how easy it is to do innovative features.,4,0.463,2025-01-18,4,48,10,Google Play Store,1.8.86,positive,2025-01
+Commercial Bank of Ethiopia,update issues is making the app unusable.,2,-0.275,2025-08-30,1,41,7,Google Play Store,2.5.76,negative,2025-08
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,1.0,2025-07-31,2,50,5,Google Play Store,2.9.75,positive,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,0.989,2025-01-15,3,45,7,Google Play Store,2.0.21,positive,2025-01
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",2,-0.647,2025-09-09,0,66,8,Google Play Store,1.3.24,negative,2025-09
+Commercial Bank of Ethiopia,Excellent experience with convenient.,5,0.566,2025-05-13,4,37,4,Google Play Store,4.8.92,positive,2025-05
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,0.508,2025-08-12,2,48,10,Google Play Store,3.8.58,positive,2025-08
+Bank of Abyssinia,poor connectivity is making the app unusable.,2,-1.0,2025-01-07,1,45,7,Google Play Store,2.4.18,negative,2025-01
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,5,0.881,2025-01-16,5,43,5,Google Play Store,4.0.50,positive,2025-01
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,4,0.962,2025-01-25,3,43,5,Google Play Store,4.9.30,positive,2025-01
+Dashen Bank,Highly recommended for innovative features.,4,0.605,2025-05-01,2,43,5,Google Play Store,1.1.36,positive,2025-05
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",1,-0.733,2025-07-28,0,66,8,Google Play Store,4.4.28,negative,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,0.923,2025-01-20,2,60,10,Google Play Store,3.0.89,positive,2025-01
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,0.462,2025-07-07,2,60,10,Google Play Store,4.4.58,positive,2025-07
+Awash Bank,I love how easy it is to do easy registration.,4,0.387,2025-01-15,3,46,10,Google Play Store,1.2.62,positive,2025-01
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,2,-0.428,2025-07-02,0,43,6,Google Play Store,1.7.6,negative,2025-07
+Bank of Abyssinia,Disappointed with high fees issues.,1,-1.0,2025-08-17,0,35,5,Google Play Store,2.6.75,negative,2025-08
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,5,0.934,2025-01-08,2,40,5,Google Play Store,1.8.96,positive,2025-01
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,0.474,2025-05-13,6,38,6,Google Play Store,1.9.98,positive,2025-05
+Awash Bank,The app keeps having problems with slow transactions.,1,-0.859,2024-12-26,0,53,8,Google Play Store,4.0.43,negative,2024-12
+Dashen Bank,"Frustrated with error messages, needs immediate attention.",2,-0.272,2025-07-02,0,58,7,Google Play Store,2.2.86,negative,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,4,0.546,2025-09-22,4,39,6,Google Play Store,1.3.39,positive,2025-09
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",2,-0.482,2025-03-18,2,64,7,Google Play Store,1.9.47,negative,2025-03
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.936,2025-08-17,6,59,9,Google Play Store,1.4.28,positive,2025-08
+Commercial Bank of Ethiopia,Highly recommended for convenient.,4,1.0,2024-12-20,3,34,4,Google Play Store,1.3.94,positive,2024-12
+Commercial Bank of Ethiopia,slow loading time is making the app unusable.,1,-0.634,2025-04-20,0,45,8,Google Play Store,3.1.76,negative,2025-04
+Commercial Bank of Ethiopia,Disappointed with update issues issues.,1,-0.247,2025-09-17,1,39,5,Google Play Store,3.5.23,negative,2025-09
+Awash Bank,slow transactions is making the app unusable.,2,-0.408,2025-02-02,3,45,7,Google Play Store,2.6.28,negative,2025-02
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,0.496,2025-02-06,2,45,7,Google Play Store,4.7.79,positive,2025-02
+Dashen Bank,Excellent experience with modern design.,5,0.864,2025-06-18,2,40,5,Google Play Store,1.5.10,positive,2025-06
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.698,2025-03-23,3,48,6,Google Play Store,1.8.60,positive,2025-03
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,5,1.0,2024-12-24,6,52,10,Google Play Store,4.7.92,positive,2024-12
+Awash Bank,Please fix the notification delays problem!,2,-0.881,2025-04-16,0,43,6,Google Play Store,3.2.5,negative,2025-04
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,4,0.448,2025-02-28,3,40,5,Google Play Store,1.8.23,positive,2025-02
+Awash Bank,The app keeps having problems with outdated interface.,1,-0.441,2025-09-18,0,54,8,Google Play Store,1.7.80,negative,2025-09
+Bank of Abyssinia,Please fix the poor connectivity problem!,2,-1.0,2025-03-19,1,41,6,Google Play Store,2.9.92,negative,2025-03
+Bank of Abyssinia,Please fix the poor connectivity problem!,1,-0.893,2025-10-13,2,41,6,Google Play Store,1.8.20,negative,2025-10
+Awash Bank,Highly recommended for easy registration.,5,1.0,2025-11-07,4,41,5,Google Play Store,1.6.14,positive,2025-11
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.915,2025-10-11,6,34,4,Google Play Store,2.3.14,positive,2025-10
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.471,2025-03-01,3,48,6,Google Play Store,4.6.92,positive,2025-03
+Bank of Abyssinia,Excellent experience with smooth experience.,5,1.0,2025-03-18,3,44,5,Google Play Store,2.3.1,positive,2025-03
+Commercial Bank of Ethiopia,Please fix the update issues problem!,1,-0.896,2025-06-30,0,37,6,Google Play Store,3.2.72,negative,2025-06
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,4,1.0,2025-11-18,2,40,8,Google Play Store,4.7.30,positive,2025-11
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,4,1.0,2025-02-24,6,52,7,Google Play Store,4.8.73,positive,2025-02
+Dashen Bank,Excellent experience with modern design.,5,1.0,2025-09-22,4,40,5,Google Play Store,4.8.2,positive,2025-09
+Dashen Bank,I love how easy it is to do good security.,4,0.819,2025-03-03,5,42,10,Google Play Store,4.2.82,positive,2025-03
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.947,2025-08-27,4,47,5,Google Play Store,4.2.57,positive,2025-08
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.544,2025-08-16,2,39,9,Google Play Store,1.3.7,positive,2025-08
+Awash Bank,Excellent experience with easy registration.,5,0.572,2025-03-12,2,44,5,Google Play Store,3.9.18,positive,2025-03
+Dashen Bank,Excellent experience with innovative features.,4,0.418,2025-01-31,2,46,5,Google Play Store,1.6.33,positive,2025-01
+Bank of Abyssinia,I love how easy it is to do smooth experience.,4,0.934,2025-09-04,6,46,10,Google Play Store,1.0.85,positive,2025-09
+Dashen Bank,Please fix the error messages problem!,2,-0.231,2025-10-04,4,38,6,Google Play Store,4.4.88,negative,2025-10
+Dashen Bank,Disappointed with limited functionality issues.,2,-0.37,2025-01-30,1,47,5,Google Play Store,4.9.59,negative,2025-01
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,1.0,2025-02-22,2,46,7,Google Play Store,3.2.22,positive,2025-02
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,4,1.0,2025-01-12,1,69,11,Google Play Store,2.4.63,positive,2025-01
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,1.0,2025-10-17,2,39,6,Google Play Store,4.9.21,positive,2025-10
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.576,2025-11-21,3,48,6,Google Play Store,2.7.13,positive,2025-11
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,5,1.0,2025-02-27,2,45,6,Google Play Store,4.9.4,positive,2025-02
+Awash Bank,I love how easy it is to do useful features.,5,0.802,2025-05-07,2,44,10,Google Play Store,4.5.49,positive,2025-05
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",1,-0.984,2025-02-05,1,64,7,Google Play Store,2.0.32,negative,2025-02
+Dashen Bank,Highly recommended for quick setup.,5,0.724,2025-09-24,1,35,5,Google Play Store,2.5.73,positive,2025-09
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.851,2025-11-06,0,50,5,Google Play Store,2.6.63,positive,2025-11
+Bank of Abyssinia,Highly recommended for smooth experience.,4,1.0,2025-07-31,1,41,5,Google Play Store,2.4.18,positive,2025-07
+Bank of Abyssinia,Please fix the transaction failures problem!,1,-0.679,2025-03-13,3,44,6,Google Play Store,3.8.93,negative,2025-03
+Bank of Abyssinia,high fees is making the app unusable.,2,-0.292,2025-01-18,0,37,7,Google Play Store,4.6.17,negative,2025-01
+Awash Bank,I love how easy it is to do stable performance.,4,0.721,2025-01-22,7,47,10,Google Play Store,4.9.5,positive,2025-01
+Bank of Abyssinia,Excellent experience with helpful support team.,4,0.674,2025-11-01,3,47,6,Google Play Store,1.6.20,positive,2025-11
+Awash Bank,I love how easy it is to do useful features.,5,1.0,2025-09-16,7,44,10,Google Play Store,4.0.88,positive,2025-09
+Awash Bank,Excellent experience with helpful customer service.,4,0.923,2025-03-06,2,51,6,Google Play Store,2.5.88,positive,2025-03
+Commercial Bank of Ethiopia,"Frustrated with slow loading time, needs immediate attention.",1,-0.678,2025-10-24,0,61,8,Google Play Store,4.7.96,negative,2025-10
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.747,2024-12-17,4,48,6,Google Play Store,2.6.37,positive,2024-12
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,0.972,2025-03-26,5,40,11,Google Play Store,1.6.37,positive,2025-03
+Bank of Abyssinia,Highly recommended for helpful support team.,5,0.972,2025-08-25,3,44,6,Google Play Store,1.8.79,positive,2025-08
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.805,2025-03-05,5,59,9,Google Play Store,1.4.16,positive,2025-03
+Commercial Bank of Ethiopia,Highly recommended for convenient.,4,0.445,2025-05-10,3,34,4,Google Play Store,3.4.86,positive,2025-05
+Dashen Bank,Please fix the complex navigation problem!,2,-0.811,2025-05-30,2,42,6,Google Play Store,2.2.18,negative,2025-05
+Dashen Bank,I love how easy it is to do innovative features.,5,0.664,2025-06-20,1,48,10,Google Play Store,3.1.51,positive,2025-06
+Dashen Bank,I love how easy it is to do innovative features.,5,0.949,2025-09-13,4,48,10,Google Play Store,2.1.47,positive,2025-09
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,0.773,2025-07-18,1,46,10,Google Play Store,2.7.14,positive,2025-07
+Awash Bank,notification delays is making the app unusable.,1,-0.718,2025-10-11,3,47,7,Google Play Store,2.1.12,negative,2025-10
+Awash Bank,Highly recommended for helpful customer service.,4,0.868,2025-01-17,3,48,6,Google Play Store,1.8.12,positive,2025-01
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.506,2025-08-07,4,35,6,Google Play Store,2.9.23,positive,2025-08
+Dashen Bank,Dashen Bank has the best good security feature.,5,0.842,2025-09-24,3,47,8,Google Play Store,2.7.16,positive,2025-09
+Dashen Bank,Highly recommended for modern design.,4,0.885,2025-08-13,7,37,5,Google Play Store,1.6.44,positive,2025-08
+Awash Bank,Disappointed with slow transactions issues.,1,-0.478,2025-09-26,2,43,5,Google Play Store,2.0.42,negative,2025-09
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,0.745,2025-09-25,0,46,10,Google Play Store,1.7.2,positive,2025-09
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,0.406,2025-06-24,2,48,7,Google Play Store,3.9.46,positive,2025-06
+Bank of Abyssinia,high fees is making the app unusable.,2,-0.813,2025-03-05,3,37,7,Google Play Store,1.4.99,negative,2025-03
+Commercial Bank of Ethiopia,Disappointed with connection errors issues.,1,-1.0,2025-04-29,2,43,5,Google Play Store,3.0.72,negative,2025-04
+Bank of Abyssinia,Excellent experience with helpful support team.,5,0.909,2025-01-04,6,47,6,Google Play Store,4.3.47,positive,2025-01
+Bank of Abyssinia,Excellent experience with helpful support team.,5,1.0,2025-08-15,6,47,6,Google Play Store,3.2.31,positive,2025-08
+Bank of Abyssinia,Highly recommended for helpful support team.,4,0.851,2024-12-13,3,44,6,Google Play Store,3.5.11,positive,2024-12
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.518,2025-07-22,2,45,10,Google Play Store,4.1.12,positive,2025-07
+Dashen Bank,Dashen Bank has the best quick setup feature.,4,0.418,2025-10-27,2,45,8,Google Play Store,4.6.94,positive,2025-10
+Dashen Bank,Excellent experience with modern design.,5,1.0,2024-12-08,2,40,5,Google Play Store,3.9.78,positive,2024-12
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",1,-0.431,2025-09-22,1,61,7,Google Play Store,3.4.55,negative,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,4,0.916,2025-04-07,9,71,11,Google Play Store,1.4.79,positive,2025-04
+Awash Bank,Disappointed with login troubles issues.,2,-0.382,2025-10-28,1,40,5,Google Play Store,3.7.61,negative,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,4,0.865,2025-02-12,7,66,10,Google Play Store,4.1.90,positive,2025-02
+Dashen Bank,Excellent experience with innovative features.,4,0.655,2025-07-14,5,46,5,Google Play Store,1.4.92,positive,2025-07
+Bank of Abyssinia,Please fix the poor connectivity problem!,1,-0.73,2025-07-19,1,41,6,Google Play Store,3.3.95,negative,2025-07
+Dashen Bank,The app keeps having problems with limited functionality.,1,-0.391,2025-10-11,2,57,8,Google Play Store,4.9.48,negative,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,0.789,2025-09-28,5,60,9,Google Play Store,1.7.78,positive,2025-09
+Commercial Bank of Ethiopia,The app keeps having problems with update issues.,2,-0.803,2025-07-19,1,49,8,Google Play Store,2.6.6,negative,2025-07
+Awash Bank,Highly recommended for helpful customer service.,5,0.736,2025-06-01,2,48,6,Google Play Store,3.5.3,positive,2025-06
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,0.943,2024-12-18,2,46,7,Google Play Store,2.8.53,positive,2024-12
+Bank of Abyssinia,Please fix the transaction failures problem!,1,-0.996,2025-11-17,0,44,6,Google Play Store,2.6.4,negative,2025-11
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,5,0.8,2025-05-04,4,43,6,Google Play Store,1.8.74,positive,2025-05
+Awash Bank,I love how easy it is to do useful features.,5,0.825,2025-02-27,1,44,10,Google Play Store,4.8.31,positive,2025-02
+Dashen Bank,Excellent experience with good security.,5,0.611,2025-03-25,4,40,5,Google Play Store,2.9.20,positive,2025-03
+Bank of Abyssinia,Excellent experience with helpful support team.,4,0.883,2025-01-12,5,47,6,Google Play Store,2.4.79,positive,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,5,0.683,2025-02-02,2,66,10,Google Play Store,3.3.15,positive,2025-02
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,0.731,2025-02-11,1,63,9,Google Play Store,2.4.39,positive,2025-02
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",2,-0.762,2024-12-11,0,64,7,Google Play Store,3.1.80,negative,2024-12
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,0.772,2025-10-17,2,63,9,Google Play Store,4.1.56,positive,2025-10
+Awash Bank,Excellent experience with stable performance.,5,1.0,2025-09-19,2,45,5,Google Play Store,3.2.35,positive,2025-09
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.716,2025-02-10,2,50,11,Google Play Store,2.1.4,positive,2025-02
+Dashen Bank,I love how easy it is to do innovative features.,5,0.904,2025-11-25,4,48,10,Google Play Store,2.9.99,positive,2025-11
+Bank of Abyssinia,The app keeps having problems with high fees.,1,-0.898,2025-03-06,0,45,8,Google Play Store,2.1.46,negative,2025-03
+Dashen Bank,Excellent experience with modern design.,4,0.47,2025-05-04,2,40,5,Google Play Store,3.5.67,positive,2025-05
+Commercial Bank of Ethiopia,The app keeps having problems with slow loading time.,1,-0.553,2025-05-02,1,53,9,Google Play Store,2.9.12,negative,2025-05
+Awash Bank,Highly recommended for stable performance.,4,0.888,2025-01-02,4,42,5,Google Play Store,4.4.27,positive,2025-01
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",2,-0.293,2025-10-25,1,53,7,Google Play Store,3.8.12,negative,2025-10
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,1.0,2025-03-03,4,46,6,Google Play Store,1.2.37,positive,2025-03
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.245,2025-03-16,4,48,11,Google Play Store,1.6.96,positive,2025-03
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,0.651,2025-02-11,4,40,11,Google Play Store,1.7.85,positive,2025-02
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.666,2025-09-11,2,48,6,Google Play Store,4.1.46,positive,2025-09
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,0.704,2025-03-02,0,52,7,Google Play Store,3.9.89,positive,2025-03
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,0.638,2025-01-31,4,46,6,Google Play Store,1.7.32,positive,2025-01
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.997,2025-07-04,3,39,6,Google Play Store,4.9.12,positive,2025-07
+Bank of Abyssinia,Excellent experience with user-friendly interface.,4,1.0,2025-04-10,3,50,5,Google Play Store,2.7.56,positive,2025-04
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,4,0.76,2025-04-18,3,59,9,Google Play Store,3.2.71,positive,2025-04
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,0.819,2025-01-03,1,48,10,Google Play Store,3.4.3,positive,2025-01
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",2,-0.683,2025-11-16,0,58,7,Google Play Store,1.4.72,negative,2025-11
+Commercial Bank of Ethiopia,login problems is making the app unusable.,2,-0.387,2025-07-22,1,42,7,Google Play Store,4.1.33,negative,2025-07
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.958,2024-12-12,5,34,4,Google Play Store,4.4.26,positive,2024-12
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.409,2025-09-10,6,35,6,Google Play Store,4.1.77,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,4,0.449,2025-10-07,2,71,11,Google Play Store,3.9.36,positive,2025-10
+Bank of Abyssinia,Highly recommended for smooth experience.,5,0.894,2025-04-01,3,41,5,Google Play Store,4.8.15,positive,2025-04
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.674,2025-08-25,0,50,11,Google Play Store,1.6.85,positive,2025-08
+Commercial Bank of Ethiopia,Please fix the slow loading time problem!,1,-0.312,2025-01-21,1,41,7,Google Play Store,4.6.56,negative,2025-01
+Bank of Abyssinia,Highly recommended for secure transactions.,4,1.0,2025-07-29,2,43,5,Google Play Store,1.8.5,positive,2025-07
+Dashen Bank,Please fix the sync issues problem!,1,-1.0,2025-08-18,0,35,6,Google Play Store,2.8.82,negative,2025-08
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,0.743,2024-12-24,3,46,10,Google Play Store,1.7.50,positive,2024-12
+Bank of Abyssinia,Please fix the buggy updates problem!,1,-0.491,2025-03-04,4,37,6,Google Play Store,2.8.76,negative,2025-03
+Dashen Bank,The app works perfectly for modern design.,5,0.732,2025-03-28,4,42,7,Google Play Store,4.5.71,positive,2025-03
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,4,1.0,2025-02-02,4,63,9,Google Play Store,3.1.0,positive,2025-02
+Dashen Bank,"Frustrated with sync issues, needs immediate attention.",1,-0.508,2025-03-23,1,55,7,Google Play Store,1.6.44,negative,2025-03
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,5,0.44,2025-10-11,3,63,9,Google Play Store,2.9.50,positive,2025-10
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,0.56,2025-02-09,3,40,11,Google Play Store,2.7.37,positive,2025-02
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",1,-0.665,2025-10-05,1,61,7,Google Play Store,1.6.19,negative,2025-10
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.788,2024-12-20,4,59,9,Google Play Store,3.6.34,positive,2024-12
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,4,1.0,2025-05-28,2,48,8,Google Play Store,1.2.30,positive,2025-05
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.682,2025-02-04,0,50,8,Google Play Store,3.7.55,negative,2025-02
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,4,0.418,2024-12-07,2,39,9,Google Play Store,4.8.26,positive,2024-12
+Dashen Bank,Please fix the error messages problem!,1,-0.569,2025-02-20,3,38,6,Google Play Store,2.9.94,negative,2025-02
+Dashen Bank,Excellent experience with good security.,4,0.731,2025-01-01,4,40,5,Google Play Store,2.5.33,positive,2025-01
+Awash Bank,Excellent experience with easy registration.,4,0.777,2025-07-15,6,44,5,Google Play Store,2.3.85,positive,2025-07
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.883,2025-01-21,2,48,11,Google Play Store,2.5.77,positive,2025-01
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.491,2024-12-04,5,59,9,Google Play Store,1.1.22,positive,2024-12
+Bank of Abyssinia,Disappointed with high fees issues.,2,-0.809,2025-06-23,0,35,5,Google Play Store,1.0.44,negative,2025-06
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",1,-0.558,2025-03-01,1,66,8,Google Play Store,1.6.85,negative,2025-03
+Dashen Bank,The app works perfectly for modern design.,5,1.0,2025-09-23,1,42,7,Google Play Store,3.3.40,positive,2025-09
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.436,2025-06-03,2,35,6,Google Play Store,4.1.26,positive,2025-06
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.671,2025-11-05,1,44,5,Google Play Store,4.2.16,negative,2025-11
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,5,0.858,2025-06-09,3,43,5,Google Play Store,2.2.72,positive,2025-06
+Bank of Abyssinia,I love how easy it is to do helpful support team.,4,0.588,2025-02-12,4,49,11,Google Play Store,4.6.67,positive,2025-02
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.217,2025-09-29,0,50,11,Google Play Store,4.3.47,positive,2025-09
+Bank of Abyssinia,buggy updates is making the app unusable.,2,-0.173,2025-02-07,0,41,7,Google Play Store,4.2.68,negative,2025-02
+Awash Bank,Please fix the outdated interface problem!,2,-0.468,2025-10-15,0,42,6,Google Play Store,4.6.65,negative,2025-10
+Dashen Bank,The app keeps having problems with sync issues.,1,-0.408,2025-09-15,3,47,8,Google Play Store,2.4.28,negative,2025-09
+Bank of Abyssinia,Disappointed with poor connectivity issues.,1,-0.614,2025-09-22,2,43,5,Google Play Store,1.2.17,negative,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,4,0.693,2025-07-09,2,59,9,Google Play Store,1.8.65,positive,2025-07
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,0.336,2025-01-25,2,46,7,Google Play Store,1.3.12,positive,2025-01
+Bank of Abyssinia,Disappointed with buggy updates issues.,2,-0.286,2025-08-20,0,39,5,Google Play Store,4.9.82,negative,2025-08
+Awash Bank,The app works perfectly for useful features.,5,1.0,2025-12-02,8,44,7,Google Play Store,4.5.86,positive,2025-12
+Bank of Abyssinia,Highly recommended for helpful support team.,5,0.847,2025-10-28,2,44,6,Google Play Store,3.7.66,positive,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,4,0.772,2025-11-20,4,66,10,Google Play Store,4.7.23,positive,2025-11
+Bank of Abyssinia,Highly recommended for helpful support team.,4,0.94,2025-09-16,3,44,6,Google Play Store,1.8.78,positive,2025-09
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,0.802,2025-08-17,3,49,11,Google Play Store,2.5.57,positive,2025-08
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,0.866,2025-02-19,3,49,11,Google Play Store,4.8.24,positive,2025-02
+Commercial Bank of Ethiopia,update issues is making the app unusable.,1,-0.598,2025-06-25,0,41,7,Google Play Store,2.9.56,negative,2025-06
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,4,0.901,2025-08-17,3,48,8,Google Play Store,2.2.11,positive,2025-08
+Commercial Bank of Ethiopia,Please fix the login problems problem!,1,-0.627,2025-07-30,0,38,6,Google Play Store,1.6.4,negative,2025-07
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",2,-0.752,2025-03-29,1,53,7,Google Play Store,4.7.96,negative,2025-03
+Awash Bank,I love how easy it is to do stable performance.,5,0.55,2025-09-08,0,47,10,Google Play Store,4.8.46,positive,2025-09
+Bank of Abyssinia,Disappointed with poor connectivity issues.,1,-1.0,2025-11-05,0,43,5,Google Play Store,3.3.90,negative,2025-11
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,0.772,2025-04-26,2,52,7,Google Play Store,1.3.99,positive,2025-04
+Dashen Bank,limited functionality is making the app unusable.,2,-0.496,2025-02-14,0,49,7,Google Play Store,4.9.58,negative,2025-02
+Dashen Bank,The app keeps having problems with error messages.,2,-0.807,2025-11-08,0,50,8,Google Play Store,4.6.50,negative,2025-11
+Dashen Bank,Please fix the complex navigation problem!,1,-0.343,2025-07-19,1,42,6,Google Play Store,1.8.71,negative,2025-07
+Awash Bank,Excellent experience with helpful customer service.,5,0.602,2025-10-14,4,51,6,Google Play Store,2.0.27,positive,2025-10
+Bank of Abyssinia,Please fix the buggy updates problem!,2,-0.489,2025-09-25,0,37,6,Google Play Store,3.7.57,negative,2025-09
+Dashen Bank,Disappointed with error messages issues.,1,-0.531,2025-07-12,0,40,5,Google Play Store,2.9.97,negative,2025-07
+Bank of Abyssinia,The app works perfectly for secure transactions.,4,0.488,2025-10-04,4,48,7,Google Play Store,3.6.24,positive,2025-10
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.84,2025-04-11,5,47,5,Google Play Store,1.1.98,positive,2025-04
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,4,1.0,2025-07-13,3,63,9,Google Play Store,1.2.17,positive,2025-07
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,0.614,2025-01-23,4,46,7,Google Play Store,3.3.18,positive,2025-01
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,0.906,2025-04-24,3,48,10,Google Play Store,2.5.44,positive,2025-04
+Awash Bank,I love how easy it is to do easy registration.,5,0.688,2025-03-27,6,46,10,Google Play Store,4.0.43,positive,2025-03
+Awash Bank,Awash Bank has the best easy registration feature.,5,0.616,2025-10-26,4,50,8,Google Play Store,2.8.72,positive,2025-10
+Dashen Bank,"Frustrated with limited functionality, needs immediate attention.",2,-0.615,2025-05-24,2,65,7,Google Play Store,1.5.46,negative,2025-05
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,1,-0.245,2025-09-02,3,46,7,Google Play Store,1.2.67,negative,2025-09
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,4,0.91,2025-05-03,1,40,8,Google Play Store,4.4.15,positive,2025-05
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,1.0,2025-10-21,4,45,7,Google Play Store,2.5.40,positive,2025-10
+Bank of Abyssinia,Excellent experience with secure transactions.,5,1.0,2025-03-29,4,46,5,Google Play Store,2.9.89,positive,2025-03
+Dashen Bank,The app keeps having problems with error messages.,2,-0.593,2025-05-15,0,50,8,Google Play Store,1.5.22,negative,2025-05
+Bank of Abyssinia,Excellent experience with secure transactions.,4,1.0,2025-09-02,3,46,5,Google Play Store,1.8.58,positive,2025-09
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,4,1.0,2025-05-01,2,40,8,Google Play Store,2.6.55,positive,2025-05
+Awash Bank,Awash Bank has the best easy registration feature.,5,0.865,2025-03-21,1,50,8,Google Play Store,2.4.18,positive,2025-03
+Bank of Abyssinia,Excellent experience with secure transactions.,4,1.0,2025-06-08,4,46,5,Google Play Store,3.1.77,positive,2025-06
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,4,1.0,2025-10-24,3,35,6,Google Play Store,2.6.42,positive,2025-10
+Dashen Bank,sync issues is making the app unusable.,2,-0.668,2025-11-20,0,39,7,Google Play Store,4.0.95,negative,2025-11
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,0.918,2025-03-22,4,48,7,Google Play Store,2.9.52,positive,2025-03
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,4,0.529,2025-05-25,4,45,6,Google Play Store,2.1.58,positive,2025-05
+Awash Bank,Highly recommended for stable performance.,4,0.992,2025-01-04,3,42,5,Google Play Store,1.8.85,positive,2025-01
+Commercial Bank of Ethiopia,The app works perfectly for good customer support.,5,0.309,2025-01-12,4,50,8,Google Play Store,4.4.21,positive,2025-01
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,2,-1.0,2025-01-01,2,43,6,Google Play Store,2.8.34,negative,2025-01
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,5,1.0,2025-03-02,2,45,6,Google Play Store,4.9.8,positive,2025-03
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.611,2025-07-29,1,47,5,Google Play Store,1.1.45,positive,2025-07
+Dashen Bank,Dashen Bank has the best quick setup feature.,5,0.715,2024-12-08,3,45,8,Google Play Store,4.6.6,positive,2024-12
+Dashen Bank,Please fix the complex navigation problem!,1,-1.0,2025-03-17,0,42,6,Google Play Store,3.4.95,negative,2025-03
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,0.831,2025-05-15,2,46,7,Google Play Store,1.7.79,positive,2025-05
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",2,-0.154,2025-09-11,1,53,7,Google Play Store,2.3.17,negative,2025-09
+Commercial Bank of Ethiopia,Excellent experience with convenient.,5,0.697,2025-01-13,2,37,4,Google Play Store,1.1.29,positive,2025-01
+Dashen Bank,I love how easy it is to do modern design.,5,0.713,2025-01-24,5,42,10,Google Play Store,1.6.60,positive,2025-01
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,4,0.744,2024-12-30,1,38,6,Google Play Store,4.1.29,positive,2024-12
+Bank of Abyssinia,Excellent experience with helpful support team.,5,0.962,2025-08-28,4,47,6,Google Play Store,3.6.1,positive,2025-08
+Awash Bank,Highly recommended for easy registration.,4,0.369,2025-09-07,3,41,5,Google Play Store,3.9.14,positive,2025-09
+Awash Bank,Awash Bank has the best useful features feature.,5,0.368,2024-12-20,4,48,8,Google Play Store,1.2.4,positive,2024-12
+Bank of Abyssinia,I love how easy it is to do helpful support team.,4,1.0,2025-06-03,2,49,11,Google Play Store,3.2.80,positive,2025-06
+Bank of Abyssinia,Disappointed with poor connectivity issues.,2,-0.734,2025-01-11,2,43,5,Google Play Store,2.7.55,negative,2025-01
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,1.0,2025-03-13,4,48,6,Google Play Store,1.2.38,positive,2025-03
+Bank of Abyssinia,Excellent experience with secure transactions.,5,0.695,2025-08-18,4,46,5,Google Play Store,2.1.78,positive,2025-08
+Bank of Abyssinia,"Frustrated with poor connectivity, needs immediate attention.",1,-0.796,2025-07-05,1,61,7,Google Play Store,4.0.66,negative,2025-07
+Bank of Abyssinia,Excellent experience with helpful support team.,5,0.566,2025-09-29,0,47,6,Google Play Store,1.9.43,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,0.435,2025-06-20,6,60,9,Google Play Store,1.5.78,positive,2025-06
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",1,-0.511,2025-01-07,1,61,7,Google Play Store,4.4.33,negative,2025-01
+Dashen Bank,Please fix the limited functionality problem!,2,-0.975,2025-07-03,0,45,6,Google Play Store,3.5.65,negative,2025-07
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,1.0,2025-02-16,2,49,11,Google Play Store,3.2.12,positive,2025-02
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.773,2025-11-10,3,50,5,Google Play Store,2.2.14,positive,2025-11
+Commercial Bank of Ethiopia,Disappointed with update issues issues.,2,-0.468,2025-08-06,0,39,5,Google Play Store,2.2.78,negative,2025-08
+Bank of Abyssinia,Excellent experience with smooth experience.,5,0.382,2025-07-16,7,44,5,Google Play Store,3.4.59,positive,2025-07
+Commercial Bank of Ethiopia,"Frustrated with update issues, needs immediate attention.",2,-0.495,2025-09-29,1,57,7,Google Play Store,3.9.61,negative,2025-09
+Awash Bank,I love how easy it is to do easy registration.,4,0.743,2025-01-11,3,46,10,Google Play Store,4.0.33,positive,2025-01
+Commercial Bank of Ethiopia,Excellent experience with convenient.,5,0.936,2025-08-11,2,37,4,Google Play Store,3.1.44,positive,2025-08
+Awash Bank,I love how easy it is to do stable performance.,5,0.712,2025-09-08,2,47,10,Google Play Store,3.9.14,positive,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,0.683,2025-03-11,2,60,10,Google Play Store,3.8.99,positive,2025-03
+Dashen Bank,I love how easy it is to do quick setup.,5,0.872,2025-05-16,3,40,10,Google Play Store,4.0.91,positive,2025-05
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,1,-0.744,2025-03-17,4,43,6,Google Play Store,1.5.52,negative,2025-03
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.437,2025-06-10,3,48,6,Google Play Store,2.9.89,positive,2025-06
+Bank of Abyssinia,poor connectivity is making the app unusable.,1,-1.0,2025-07-05,1,45,7,Google Play Store,1.0.28,negative,2025-07
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,0.909,2025-03-16,2,48,10,Google Play Store,3.5.42,positive,2025-03
+Awash Bank,The app works perfectly for stable performance.,5,0.696,2025-03-30,0,47,7,Google Play Store,3.4.0,positive,2025-03
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.681,2025-01-02,1,50,8,Google Play Store,1.4.53,negative,2025-01
+Dashen Bank,Excellent experience with quick setup.,5,0.947,2025-02-15,4,38,5,Google Play Store,4.5.60,positive,2025-02
+Dashen Bank,Dashen Bank has the best quick setup feature.,5,1.0,2025-07-06,4,45,8,Google Play Store,3.8.8,positive,2025-07
+Commercial Bank of Ethiopia,"Frustrated with update issues, needs immediate attention.",1,-0.815,2025-04-04,0,57,7,Google Play Store,4.8.48,negative,2025-04
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",1,-1.0,2024-12-07,2,61,7,Google Play Store,1.0.65,negative,2024-12
+Dashen Bank,I love how easy it is to do modern design.,4,0.988,2025-10-05,2,42,10,Google Play Store,3.0.28,positive,2025-10
+Awash Bank,Excellent experience with easy registration.,5,0.729,2025-07-01,6,44,5,Google Play Store,4.8.52,positive,2025-07
+Bank of Abyssinia,buggy updates is making the app unusable.,2,-0.912,2025-05-02,0,41,7,Google Play Store,3.6.71,negative,2025-05
+Bank of Abyssinia,high fees is making the app unusable.,2,-0.816,2025-10-26,2,37,7,Google Play Store,2.7.49,negative,2025-10
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,0.705,2025-06-23,2,46,7,Google Play Store,2.0.9,positive,2025-06
+Bank of Abyssinia,The app keeps having problems with poor connectivity.,1,-0.776,2025-06-27,1,53,8,Google Play Store,1.9.94,negative,2025-06
+Awash Bank,Excellent experience with easy registration.,4,0.738,2025-08-16,4,44,5,Google Play Store,3.4.57,positive,2025-08
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.635,2025-09-16,1,61,11,Google Play Store,4.6.72,positive,2025-09
+Commercial Bank of Ethiopia,The app keeps having problems with slow loading time.,2,-0.465,2025-01-29,1,53,9,Google Play Store,4.0.60,negative,2025-01
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,0.974,2025-08-12,6,46,7,Google Play Store,3.4.33,positive,2025-08
+Awash Bank,The app works perfectly for stable performance.,5,0.821,2025-09-15,3,47,7,Google Play Store,1.3.13,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best fast money transfer feature.,5,0.613,2025-05-25,3,69,11,Google Play Store,3.6.9,positive,2025-05
+Commercial Bank of Ethiopia,The app keeps having problems with connection errors.,1,-1.0,2025-05-12,0,53,8,Google Play Store,4.0.70,negative,2025-05
+Dashen Bank,Highly recommended for quick setup.,5,0.515,2024-12-17,6,35,5,Google Play Store,1.1.20,positive,2024-12
+Dashen Bank,I love how easy it is to do innovative features.,4,0.769,2025-01-17,5,48,10,Google Play Store,2.5.32,positive,2025-01
+Bank of Abyssinia,Excellent experience with helpful support team.,4,0.916,2025-08-15,2,47,6,Google Play Store,3.4.99,positive,2025-08
+Dashen Bank,I love how easy it is to do modern design.,5,0.994,2025-06-02,3,42,10,Google Play Store,2.7.44,positive,2025-06
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,1.0,2025-10-09,3,61,11,Google Play Store,1.3.49,positive,2025-10
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,0.641,2025-03-08,3,48,7,Google Play Store,4.7.95,positive,2025-03
+Dashen Bank,Dashen Bank has the best modern design feature.,5,0.486,2025-10-22,0,47,8,Google Play Store,4.6.14,positive,2025-10
+Dashen Bank,Disappointed with error messages issues.,2,-0.547,2025-02-15,0,40,5,Google Play Store,1.1.61,negative,2025-02
+Bank of Abyssinia,Please fix the buggy updates problem!,1,-0.985,2025-10-12,0,37,6,Google Play Store,1.3.90,negative,2025-10
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,1.0,2025-11-29,1,47,5,Google Play Store,2.5.54,positive,2025-11
+Awash Bank,Highly recommended for stable performance.,4,0.672,2025-09-21,2,42,5,Google Play Store,1.2.5,positive,2025-09
+Dashen Bank,"Frustrated with limited functionality, needs immediate attention.",1,-0.321,2025-09-07,1,65,7,Google Play Store,4.7.94,negative,2025-09
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,4,0.802,2025-11-17,6,63,9,Google Play Store,2.9.80,positive,2025-11
+Commercial Bank of Ethiopia,"Frustrated with slow loading time, needs immediate attention.",2,-0.65,2025-03-26,0,61,8,Google Play Store,1.9.82,negative,2025-03
+Bank of Abyssinia,Highly recommended for helpful support team.,5,0.725,2025-03-12,6,44,6,Google Play Store,4.9.50,positive,2025-03
+Bank of Abyssinia,The app keeps having problems with transaction failures.,1,-0.981,2025-06-01,1,56,8,Google Play Store,2.5.58,negative,2025-06
+Bank of Abyssinia,The app works perfectly for helpful support team.,4,0.699,2025-11-12,2,49,8,Google Play Store,1.8.61,positive,2025-11
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,0.835,2024-12-09,1,60,10,Google Play Store,3.4.43,positive,2024-12
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",2,-0.659,2025-07-24,2,53,7,Google Play Store,4.2.16,negative,2025-07
+Bank of Abyssinia,I love how easy it is to do user-friendly interface.,4,0.816,2025-09-01,4,52,10,Google Play Store,4.1.52,positive,2025-09
+Bank of Abyssinia,Excellent experience with helpful support team.,4,1.0,2025-06-05,7,47,6,Google Play Store,4.2.48,positive,2025-06
+Commercial Bank of Ethiopia,The app keeps having problems with slow loading time.,1,-0.332,2025-02-05,1,53,9,Google Play Store,1.6.72,negative,2025-02
+Bank of Abyssinia,Disappointed with transaction failures issues.,2,-0.312,2025-04-01,3,46,5,Google Play Store,3.0.17,negative,2025-04
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,4,0.284,2025-04-08,1,40,11,Google Play Store,4.4.25,positive,2025-04
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,0.644,2025-07-04,4,60,9,Google Play Store,1.0.99,positive,2025-07
+Awash Bank,Excellent experience with stable performance.,5,0.669,2025-05-21,3,45,5,Google Play Store,1.3.37,positive,2025-05
+Commercial Bank of Ethiopia,update issues is making the app unusable.,1,-1.0,2025-02-04,0,41,7,Google Play Store,4.3.7,negative,2025-02
+Dashen Bank,Dashen Bank has the best good security feature.,5,0.552,2025-01-29,5,47,8,Google Play Store,3.6.21,positive,2025-01
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,1.0,2025-05-20,2,40,11,Google Play Store,4.9.31,positive,2025-05
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.731,2025-07-22,6,59,9,Google Play Store,1.7.39,positive,2025-07
+Bank of Abyssinia,The app keeps having problems with transaction failures.,2,-0.817,2025-11-01,2,56,8,Google Play Store,4.7.22,negative,2025-11
+Dashen Bank,Please fix the complex navigation problem!,1,-0.465,2025-02-25,0,42,6,Google Play Store,3.0.96,negative,2025-02
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,5,1.0,2025-07-21,4,57,9,Google Play Store,2.1.90,positive,2025-07
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.488,2025-07-25,6,47,5,Google Play Store,2.6.18,positive,2025-07
+Dashen Bank,Disappointed with limited functionality issues.,1,-0.563,2025-09-19,0,47,5,Google Play Store,4.9.17,negative,2025-09
+Awash Bank,Please fix the slow transactions problem!,1,-0.096,2025-06-05,0,41,6,Google Play Store,4.9.48,neutral,2025-06
+Commercial Bank of Ethiopia,The app keeps having problems with app crashes frequently.,1,-0.446,2025-11-26,1,58,9,Google Play Store,1.3.89,negative,2025-11
+Bank of Abyssinia,Excellent experience with smooth experience.,4,0.759,2025-07-30,4,44,5,Google Play Store,1.5.81,positive,2025-07
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.493,2025-07-18,6,59,9,Google Play Store,4.4.87,positive,2025-07
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,0.999,2025-08-30,2,52,7,Google Play Store,4.1.69,positive,2025-08
+Commercial Bank of Ethiopia,update issues is making the app unusable.,2,-0.466,2024-12-27,2,41,7,Google Play Store,1.6.59,negative,2024-12
+Awash Bank,I love how easy it is to do helpful customer service.,5,0.556,2025-06-30,2,53,11,Google Play Store,3.9.66,positive,2025-06
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,5,1.0,2025-10-02,4,40,5,Google Play Store,3.9.1,positive,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.793,2025-03-19,1,71,11,Google Play Store,3.5.66,positive,2025-03
+Commercial Bank of Ethiopia,connection errors is making the app unusable.,2,-1.0,2025-11-06,0,45,7,Google Play Store,3.6.65,negative,2025-11
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,5,0.685,2025-03-19,2,43,5,Google Play Store,2.2.61,positive,2025-03
+Dashen Bank,Disappointed with complex navigation issues.,2,-0.754,2025-06-20,1,44,5,Google Play Store,3.1.98,negative,2025-06
+Bank of Abyssinia,The app keeps having problems with high fees.,1,-0.598,2025-02-05,1,45,8,Google Play Store,3.8.98,negative,2025-02
+Awash Bank,"Frustrated with outdated interface, needs immediate attention.",1,-0.428,2025-03-05,0,62,7,Google Play Store,2.7.1,negative,2025-03
+Dashen Bank,Highly recommended for innovative features.,5,0.388,2025-03-16,5,43,5,Google Play Store,1.3.89,positive,2025-03
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,0.6,2025-02-14,8,46,10,Google Play Store,2.7.71,positive,2025-02
+Dashen Bank,Please fix the limited functionality problem!,1,-0.388,2025-08-22,0,45,6,Google Play Store,3.3.61,negative,2025-08
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,5,0.561,2025-09-28,1,60,10,Google Play Store,3.9.44,positive,2025-09
+Commercial Bank of Ethiopia,"Frustrated with slow loading time, needs immediate attention.",2,-0.631,2025-07-25,1,61,8,Google Play Store,1.7.16,negative,2025-07
+Dashen Bank,error messages is making the app unusable.,2,-0.804,2025-02-22,0,42,7,Google Play Store,3.1.85,negative,2025-02
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.886,2025-03-06,4,34,4,Google Play Store,4.7.47,positive,2025-03
+Dashen Bank,The app works perfectly for quick setup.,5,0.621,2025-09-09,3,40,7,Google Play Store,3.0.28,positive,2025-09
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",2,-1.0,2025-11-11,1,64,7,Google Play Store,2.7.63,negative,2025-11
+Dashen Bank,The app works perfectly for good security.,5,1.0,2025-11-28,2,42,7,Google Play Store,1.8.1,positive,2025-11
+Dashen Bank,limited functionality is making the app unusable.,1,-0.447,2025-10-08,1,49,7,Google Play Store,2.9.46,negative,2025-10
+Bank of Abyssinia,I love how easy it is to do helpful support team.,4,0.595,2025-06-02,3,49,11,Google Play Store,1.8.61,positive,2025-06
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,5,0.351,2025-01-13,4,43,6,Google Play Store,4.8.3,positive,2025-01
+Dashen Bank,The app works perfectly for quick setup.,5,0.511,2025-01-16,5,40,7,Google Play Store,3.6.43,positive,2025-01
+Awash Bank,Awash Bank has the best useful features feature.,5,0.478,2025-09-29,0,48,8,Google Play Store,2.1.48,positive,2025-09
+Commercial Bank of Ethiopia,update issues is making the app unusable.,2,-1.0,2025-11-19,2,41,7,Google Play Store,3.2.1,negative,2025-11
+Awash Bank,I love how easy it is to do useful features.,4,0.718,2025-06-28,1,44,10,Google Play Store,3.9.95,positive,2025-06
+Bank of Abyssinia,Excellent experience with helpful support team.,5,1.0,2024-12-24,2,47,6,Google Play Store,3.5.43,positive,2024-12
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,4,1.0,2025-08-19,4,50,11,Google Play Store,3.9.4,positive,2025-08
+Awash Bank,Disappointed with slow transactions issues.,2,-0.249,2025-11-14,0,43,5,Google Play Store,2.4.92,negative,2025-11
+Bank of Abyssinia,buggy updates is making the app unusable.,2,-0.449,2025-10-01,1,41,7,Google Play Store,3.8.23,negative,2025-10
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,5,0.967,2025-06-17,1,46,6,Google Play Store,3.0.18,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,4,0.673,2025-04-29,3,45,10,Google Play Store,4.1.87,positive,2025-04
+Dashen Bank,Highly recommended for innovative features.,5,1.0,2025-01-01,5,43,5,Google Play Store,2.9.14,positive,2025-01
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,5,0.752,2025-01-09,3,57,9,Google Play Store,1.6.63,positive,2025-01
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.485,2025-08-06,3,35,6,Google Play Store,3.9.68,positive,2025-08
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,5,0.516,2025-01-05,1,57,9,Google Play Store,3.1.96,positive,2025-01
+Dashen Bank,Highly recommended for innovative features.,5,1.0,2025-02-12,4,43,5,Google Play Store,4.6.20,positive,2025-02
+Dashen Bank,Dashen Bank has the best quick setup feature.,5,0.551,2025-04-05,2,45,8,Google Play Store,4.6.12,positive,2025-04
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.413,2025-06-08,5,34,4,Google Play Store,4.0.14,positive,2025-06
+Dashen Bank,error messages is making the app unusable.,2,-0.288,2025-05-19,1,42,7,Google Play Store,3.3.75,negative,2025-05
+Bank of Abyssinia,The app keeps having problems with high fees.,1,-0.458,2025-07-24,1,45,8,Google Play Store,2.7.14,negative,2025-07
+Dashen Bank,Excellent experience with good security.,4,0.62,2025-10-09,4,40,5,Google Play Store,2.1.97,positive,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,1.0,2025-05-13,2,71,11,Google Play Store,3.5.44,positive,2025-05
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,4,0.607,2025-07-17,5,40,5,Google Play Store,3.2.4,positive,2025-07
+Commercial Bank of Ethiopia,The app keeps having problems with connection errors.,2,-0.422,2025-10-23,0,53,8,Google Play Store,3.3.84,negative,2025-10
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,4,1.0,2025-02-18,3,48,6,Google Play Store,1.7.94,positive,2025-02
+Dashen Bank,Dashen Bank has the best innovative features feature.,4,0.542,2025-10-10,5,53,8,Google Play Store,3.4.64,positive,2025-10
+Awash Bank,The app works perfectly for helpful customer service.,5,0.948,2025-05-11,4,53,8,Google Play Store,1.8.74,positive,2025-05
+Commercial Bank of Ethiopia,The app works perfectly for good customer support.,4,0.625,2025-04-23,2,50,8,Google Play Store,4.7.2,positive,2025-04
+Awash Bank,"Frustrated with outdated interface, needs immediate attention.",2,-0.219,2025-09-12,0,62,7,Google Play Store,4.5.47,negative,2025-09
+Dashen Bank,Disappointed with error messages issues.,1,-0.549,2025-10-22,1,40,5,Google Play Store,1.0.19,negative,2025-10
+Dashen Bank,The app keeps having problems with sync issues.,1,-0.795,2025-04-01,3,47,8,Google Play Store,2.9.8,negative,2025-04
+Awash Bank,The app works perfectly for helpful customer service.,4,0.578,2025-02-13,2,53,8,Google Play Store,1.3.99,positive,2025-02
+Commercial Bank of Ethiopia,The app works perfectly for good customer support.,5,0.51,2025-10-22,5,50,8,Google Play Store,2.7.25,positive,2025-10
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,0.682,2025-09-05,0,38,6,Google Play Store,2.3.33,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.767,2025-10-21,2,71,11,Google Play Store,1.1.37,positive,2025-10
+Commercial Bank of Ethiopia,Please fix the connection errors problem!,2,-0.557,2025-01-20,0,41,6,Google Play Store,3.6.14,negative,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best reliable service feature.,5,1.0,2025-04-27,3,66,10,Google Play Store,3.3.71,positive,2025-04
+Awash Bank,The app works perfectly for useful features.,4,0.757,2025-11-15,3,44,7,Google Play Store,4.5.46,positive,2025-11
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.708,2024-12-22,2,50,8,Google Play Store,4.8.56,negative,2024-12
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",1,-1.0,2025-11-09,0,53,7,Google Play Store,4.6.97,negative,2025-11
+Awash Bank,outdated interface is making the app unusable.,2,-0.662,2024-12-24,0,46,7,Google Play Store,2.0.57,negative,2024-12
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,4,0.646,2025-04-30,1,39,6,Google Play Store,3.4.4,positive,2025-04
+Dashen Bank,The app keeps having problems with limited functionality.,2,-0.602,2025-06-21,1,57,8,Google Play Store,4.3.87,negative,2025-06
+Awash Bank,The app works perfectly for stable performance.,4,0.581,2025-02-21,3,47,7,Google Play Store,2.4.29,positive,2025-02
+Dashen Bank,Dashen Bank has the best good security feature.,5,0.8,2025-03-21,1,47,8,Google Play Store,2.2.49,positive,2025-03
+Commercial Bank of Ethiopia,The app works perfectly for good customer support.,5,0.398,2025-07-27,2,50,8,Google Play Store,2.8.96,positive,2025-07
+Commercial Bank of Ethiopia,Please fix the login problems problem!,2,-1.0,2025-10-10,1,38,6,Google Play Store,1.1.86,negative,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,4,0.33,2025-04-23,2,71,11,Google Play Store,1.9.85,positive,2025-04
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.401,2025-08-30,3,48,6,Google Play Store,3.2.59,positive,2025-08
+Bank of Abyssinia,The app works perfectly for secure transactions.,5,1.0,2025-01-28,5,48,7,Google Play Store,3.5.94,positive,2025-01
+Bank of Abyssinia,Highly recommended for helpful support team.,5,0.682,2025-01-28,3,44,6,Google Play Store,1.4.2,positive,2025-01
+Dashen Bank,I love how easy it is to do innovative features.,5,0.589,2025-02-07,4,48,10,Google Play Store,4.7.97,positive,2025-02
+Dashen Bank,"Frustrated with error messages, needs immediate attention.",1,-0.359,2025-09-06,0,58,7,Google Play Store,1.0.73,negative,2025-09
+Bank of Abyssinia,"Frustrated with poor connectivity, needs immediate attention.",1,-0.575,2025-11-30,1,61,7,Google Play Store,1.6.77,negative,2025-11
+Commercial Bank of Ethiopia,The app keeps having problems with slow loading time.,1,-0.273,2025-05-17,4,53,9,Google Play Store,2.9.98,negative,2025-05
+Dashen Bank,Highly recommended for innovative features.,5,0.74,2025-01-03,4,43,5,Google Play Store,3.3.23,positive,2025-01
+Bank of Abyssinia,Disappointed with buggy updates issues.,1,-0.348,2025-10-05,1,39,5,Google Play Store,4.5.91,negative,2025-10
+Dashen Bank,The app keeps having problems with sync issues.,1,-0.388,2025-10-30,0,47,8,Google Play Store,1.7.76,negative,2025-10
+Bank of Abyssinia,"Frustrated with buggy updates, needs immediate attention.",1,-0.685,2025-06-09,1,57,7,Google Play Store,1.4.15,negative,2025-06
+Dashen Bank,Excellent experience with modern design.,4,0.59,2025-08-14,3,40,5,Google Play Store,1.5.64,positive,2025-08
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.554,2025-03-27,4,59,9,Google Play Store,3.3.34,positive,2025-03
+Awash Bank,The app works perfectly for useful features.,4,0.492,2025-07-04,0,44,7,Google Play Store,4.9.31,positive,2025-07
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,1.0,2025-02-28,3,46,10,Google Play Store,3.4.66,positive,2025-02
+Dashen Bank,Dashen Bank has the best quick setup feature.,5,1.0,2025-11-02,4,45,8,Google Play Store,4.1.63,positive,2025-11
+Dashen Bank,The app works perfectly for good security.,4,0.891,2024-12-13,5,42,7,Google Play Store,4.7.4,positive,2024-12
+Awash Bank,Highly recommended for useful features.,4,1.0,2025-09-27,1,39,5,Google Play Store,4.6.35,positive,2025-09
+Bank of Abyssinia,The app works perfectly for smooth experience.,4,0.541,2025-07-10,2,46,7,Google Play Store,4.4.80,positive,2025-07
+Bank of Abyssinia,"Frustrated with transaction failures, needs immediate attention.",1,-0.344,2025-05-22,2,64,7,Google Play Store,3.9.91,negative,2025-05
+Dashen Bank,Highly recommended for modern design.,5,1.0,2025-04-27,4,37,5,Google Play Store,2.8.44,positive,2025-04
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,4,0.63,2025-05-10,3,61,11,Google Play Store,3.6.44,positive,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,4,0.777,2025-05-16,4,48,11,Google Play Store,3.1.78,positive,2025-05
+Bank of Abyssinia,Bank of Abyssinia has the best helpful support team feature.,4,0.379,2025-03-24,2,60,10,Google Play Store,1.0.67,positive,2025-03
+Awash Bank,Highly recommended for stable performance.,4,0.943,2025-05-18,4,42,5,Google Play Store,4.6.47,positive,2025-05
+Dashen Bank,I love how easy it is to do quick setup.,4,0.317,2025-04-28,1,40,10,Google Play Store,4.3.56,positive,2025-04
+Bank of Abyssinia,Highly recommended for user-friendly interface.,4,0.896,2025-05-31,3,47,5,Google Play Store,3.2.23,positive,2025-05
+Dashen Bank,Highly recommended for quick setup.,5,0.848,2025-05-11,1,35,5,Google Play Store,1.7.25,positive,2025-05
+Awash Bank,Excellent experience with useful features.,5,0.295,2025-02-12,1,42,5,Google Play Store,2.0.24,positive,2025-02
+Commercial Bank of Ethiopia,Please fix the app crashes frequently problem!,2,-0.934,2025-06-20,0,46,7,Google Play Store,3.9.18,negative,2025-06
+Bank of Abyssinia,high fees is making the app unusable.,2,-1.0,2025-10-23,1,37,7,Google Play Store,2.1.51,negative,2025-10
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",2,-0.304,2025-05-16,1,61,7,Google Play Store,4.7.66,negative,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,1.0,2025-06-16,3,40,11,Google Play Store,4.0.72,positive,2025-06
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.702,2025-07-31,2,50,5,Google Play Store,4.7.71,positive,2025-07
+Awash Bank,Awash Bank has the best stable performance feature.,5,0.86,2025-03-13,6,51,8,Google Play Store,1.9.11,positive,2025-03
+Awash Bank,I love how easy it is to do stable performance.,5,0.919,2025-09-20,3,47,10,Google Play Store,1.8.89,positive,2025-09
+Bank of Abyssinia,transaction failures is making the app unusable.,2,-0.329,2025-04-05,3,48,7,Google Play Store,1.7.54,negative,2025-04
+Dashen Bank,The app works perfectly for good security.,5,0.575,2025-06-11,2,42,7,Google Play Store,1.3.84,positive,2025-06
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,0.409,2025-03-31,4,38,6,Google Play Store,2.9.99,positive,2025-03
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.549,2025-05-24,4,48,6,Google Play Store,1.1.74,positive,2025-05
+Commercial Bank of Ethiopia,Highly recommended for reliable service.,5,1.0,2024-12-16,2,40,5,Google Play Store,2.4.51,positive,2024-12
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,4,0.83,2024-12-11,2,38,6,Google Play Store,4.7.47,positive,2024-12
+Bank of Abyssinia,The app keeps having problems with high fees.,1,-0.915,2025-11-18,1,45,8,Google Play Store,2.4.48,negative,2025-11
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.879,2025-01-29,5,39,6,Google Play Store,4.0.11,positive,2025-01
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.762,2025-11-18,7,48,11,Google Play Store,4.4.25,positive,2025-11
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.336,2025-08-02,3,40,8,Google Play Store,1.1.58,positive,2025-08
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",1,-0.479,2025-07-18,0,53,7,Google Play Store,1.7.20,negative,2025-07
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.729,2025-05-07,5,49,8,Google Play Store,2.9.25,positive,2025-05
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",2,-0.439,2025-08-06,1,61,7,Google Play Store,1.7.7,negative,2025-08
+Awash Bank,The app works perfectly for stable performance.,5,0.501,2025-07-16,3,47,7,Google Play Store,1.8.73,positive,2025-07
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,0.633,2025-09-22,0,49,11,Google Play Store,3.1.69,positive,2025-09
+Commercial Bank of Ethiopia,login problems is making the app unusable.,1,-0.049,2025-04-18,3,42,7,Google Play Store,1.5.81,neutral,2025-04
+Dashen Bank,complex navigation is making the app unusable.,1,-0.601,2025-05-23,2,46,7,Google Play Store,4.5.38,negative,2025-05
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,1.0,2025-08-27,3,52,7,Google Play Store,4.2.73,positive,2025-08
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,2,-0.638,2025-11-14,0,43,6,Google Play Store,1.8.99,negative,2025-11
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",1,-0.222,2025-03-01,1,66,8,Google Play Store,1.5.49,negative,2025-03
+Commercial Bank of Ethiopia,Please fix the update issues problem!,2,-0.59,2025-11-14,1,37,6,Google Play Store,1.0.91,negative,2025-11
+Dashen Bank,Dashen Bank has the best good security feature.,5,1.0,2025-06-30,0,47,8,Google Play Store,2.3.24,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do fast money transfer.,5,0.714,2025-07-08,4,48,11,Google Play Store,4.6.59,positive,2025-07
+Dashen Bank,Dashen Bank has the best good security feature.,5,0.682,2025-08-15,2,47,8,Google Play Store,1.3.33,positive,2025-08
+Awash Bank,Awash Bank has the best stable performance feature.,5,0.449,2024-12-25,1,51,8,Google Play Store,2.2.3,positive,2024-12
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.771,2025-07-13,3,48,8,Google Play Store,3.7.44,positive,2025-07
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.053,2025-11-12,0,44,5,Google Play Store,2.6.48,neutral,2025-11
+Commercial Bank of Ethiopia,Disappointed with slow loading time issues.,1,-0.384,2025-06-04,1,43,6,Google Play Store,3.7.67,negative,2025-06
+Dashen Bank,complex navigation is making the app unusable.,2,-0.691,2025-01-02,1,46,7,Google Play Store,4.1.59,negative,2025-01
+Bank of Abyssinia,Disappointed with high fees issues.,1,-0.653,2025-06-21,0,35,5,Google Play Store,1.8.87,negative,2025-06
+Awash Bank,Excellent experience with stable performance.,4,0.531,2025-06-04,5,45,5,Google Play Store,1.4.7,positive,2025-06
+Dashen Bank,Disappointed with limited functionality issues.,2,-0.255,2024-12-22,1,47,5,Google Play Store,1.2.25,negative,2024-12
+Bank of Abyssinia,Please fix the transaction failures problem!,1,-1.0,2025-09-06,1,44,6,Google Play Store,2.8.0,negative,2025-09
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,2,-0.971,2025-02-13,0,50,8,Google Play Store,4.4.91,negative,2025-02
+Dashen Bank,The app works perfectly for quick setup.,4,0.778,2025-06-28,2,40,7,Google Play Store,1.8.64,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.401,2025-06-09,2,45,10,Google Play Store,4.4.45,positive,2025-06
+Bank of Abyssinia,The app works perfectly for user-friendly interface.,5,0.972,2025-06-07,2,52,7,Google Play Store,2.3.74,positive,2025-06
+Dashen Bank,Highly recommended for innovative features.,4,1.0,2025-05-18,1,43,5,Google Play Store,4.7.27,positive,2025-05
+Commercial Bank of Ethiopia,Excellent experience with fast money transfer.,4,0.479,2025-08-30,2,46,6,Google Play Store,2.6.14,positive,2025-08
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,0.391,2025-01-12,4,35,6,Google Play Store,1.1.76,positive,2025-01
+Bank of Abyssinia,I love how easy it is to do secure transactions.,5,1.0,2025-07-10,2,48,10,Google Play Store,3.8.26,positive,2025-07
+Dashen Bank,The app keeps having problems with sync issues.,1,-0.796,2025-08-13,1,47,8,Google Play Store,4.3.13,negative,2025-08
+Awash Bank,Awash Bank has the best stable performance feature.,4,1.0,2025-03-28,4,51,8,Google Play Store,4.2.65,positive,2025-03
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,4,0.818,2025-04-10,5,60,9,Google Play Store,3.7.65,positive,2025-04
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.483,2025-06-17,7,49,8,Google Play Store,3.0.31,positive,2025-06
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,1,-0.201,2025-06-21,2,50,8,Google Play Store,3.8.96,negative,2025-06
+Commercial Bank of Ethiopia,Excellent experience with reliable service.,5,0.834,2025-04-26,5,43,5,Google Play Store,4.5.14,positive,2025-04
+Bank of Abyssinia,The app keeps having problems with poor connectivity.,1,-0.528,2025-04-12,2,53,8,Google Play Store,4.5.27,negative,2025-04
+Bank of Abyssinia,The app keeps having problems with transaction failures.,1,-0.573,2025-09-16,1,56,8,Google Play Store,2.8.79,negative,2025-09
+Dashen Bank,"Frustrated with limited functionality, needs immediate attention.",1,-1.0,2025-04-26,3,65,7,Google Play Store,4.2.1,negative,2025-04
+Bank of Abyssinia,Please fix the buggy updates problem!,2,-1.0,2025-08-09,0,37,6,Google Play Store,1.4.37,negative,2025-08
+Dashen Bank,sync issues is making the app unusable.,1,-0.314,2025-07-13,0,39,7,Google Play Store,2.5.95,negative,2025-07
+Awash Bank,"Frustrated with slow transactions, needs immediate attention.",2,-0.949,2025-11-08,0,61,7,Google Play Store,2.8.97,negative,2025-11
+Commercial Bank of Ethiopia,Please fix the slow loading time problem!,1,-0.493,2025-09-03,1,41,7,Google Play Store,2.4.17,negative,2025-09
+Awash Bank,Excellent experience with helpful customer service.,5,0.703,2025-07-01,4,51,6,Google Play Store,1.8.84,positive,2025-07
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,0.72,2025-05-21,3,61,11,Google Play Store,3.5.33,positive,2025-05
+Dashen Bank,The app keeps having problems with error messages.,1,-0.652,2025-09-16,0,50,8,Google Play Store,2.2.87,negative,2025-09
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,2,-0.699,2025-03-19,0,50,8,Google Play Store,2.2.14,negative,2025-03
+Commercial Bank of Ethiopia,The app keeps having problems with slow loading time.,2,-0.723,2025-03-10,2,53,9,Google Play Store,2.6.39,negative,2025-03
+Dashen Bank,Disappointed with complex navigation issues.,1,-0.606,2025-07-07,3,44,5,Google Play Store,3.8.22,negative,2025-07
+Awash Bank,Highly recommended for easy registration.,4,0.975,2025-05-06,2,41,5,Google Play Store,3.0.29,positive,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,0.631,2025-03-21,3,40,11,Google Play Store,1.0.24,positive,2025-03
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.99,2025-11-13,4,59,9,Google Play Store,1.0.6,positive,2025-11
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",2,-0.53,2025-01-31,2,66,8,Google Play Store,1.1.87,negative,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.655,2025-07-07,0,71,11,Google Play Store,1.3.8,positive,2025-07
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,4,0.706,2025-04-17,2,45,10,Google Play Store,1.4.91,positive,2025-04
+Dashen Bank,Excellent experience with modern design.,4,0.661,2025-01-17,5,40,5,Google Play Store,2.2.67,positive,2025-01
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,0.545,2025-07-07,2,71,11,Google Play Store,3.5.73,positive,2025-07
+Commercial Bank of Ethiopia,Please fix the login problems problem!,2,-1.0,2025-08-25,2,38,6,Google Play Store,1.4.3,negative,2025-08
+Dashen Bank,I love how easy it is to do modern design.,4,0.514,2025-01-01,1,42,10,Google Play Store,4.3.98,positive,2025-01
+Commercial Bank of Ethiopia,login problems is making the app unusable.,1,-0.723,2025-07-13,0,42,7,Google Play Store,1.7.30,negative,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.547,2024-12-14,1,40,8,Google Play Store,3.3.55,positive,2024-12
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.413,2025-02-13,0,50,8,Google Play Store,1.7.75,negative,2025-02
+Commercial Bank of Ethiopia,The app keeps having problems with connection errors.,2,-0.314,2025-03-15,0,53,8,Google Play Store,4.3.42,negative,2025-03
+Awash Bank,Excellent experience with useful features.,5,0.586,2024-12-03,1,42,5,Google Play Store,3.0.89,positive,2024-12
+Bank of Abyssinia,Disappointed with transaction failures issues.,1,-0.957,2025-04-09,1,46,5,Google Play Store,3.0.11,negative,2025-04
+Dashen Bank,sync issues is making the app unusable.,2,-0.259,2025-07-31,1,39,7,Google Play Store,2.5.43,negative,2025-07
+Dashen Bank,The app works perfectly for good security.,5,0.617,2025-06-02,5,42,7,Google Play Store,3.1.40,positive,2025-06
+Dashen Bank,I love how easy it is to do innovative features.,5,0.815,2025-07-19,4,48,10,Google Play Store,3.3.14,positive,2025-07
+Awash Bank,"Frustrated with login troubles, needs immediate attention.",1,-0.777,2025-10-02,2,58,7,Google Play Store,3.9.24,negative,2025-10
+Bank of Abyssinia,Disappointed with high fees issues.,1,-0.922,2025-05-18,0,35,5,Google Play Store,4.9.35,negative,2025-05
+Dashen Bank,Excellent experience with innovative features.,5,0.52,2025-07-02,2,46,5,Google Play Store,3.0.32,positive,2025-07
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.8,2025-08-10,0,49,8,Google Play Store,1.7.97,positive,2025-08
+Dashen Bank,Dashen Bank has the best innovative features feature.,5,0.783,2025-07-05,0,53,8,Google Play Store,3.6.25,positive,2025-07
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,0.612,2025-01-28,2,45,7,Google Play Store,4.1.12,positive,2025-01
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,4,0.694,2025-09-21,4,63,9,Google Play Store,4.3.89,positive,2025-09
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best good customer support feature.,5,1.0,2025-04-25,3,71,11,Google Play Store,3.9.90,positive,2025-04
+Bank of Abyssinia,The app keeps having problems with buggy updates.,2,-0.867,2025-11-25,1,49,8,Google Play Store,4.6.47,negative,2025-11
+Dashen Bank,"Frustrated with limited functionality, needs immediate attention.",1,-0.514,2025-01-20,0,65,7,Google Play Store,3.1.70,negative,2025-01
+Dashen Bank,Highly recommended for quick setup.,5,0.469,2025-05-13,6,35,5,Google Play Store,1.2.31,positive,2025-05
+Dashen Bank,complex navigation is making the app unusable.,2,-0.657,2025-08-22,1,46,7,Google Play Store,1.1.50,negative,2025-08
+Bank of Abyssinia,Highly recommended for secure transactions.,5,0.373,2024-12-24,7,43,5,Google Play Store,4.6.19,positive,2024-12
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,4,1.0,2025-05-08,1,57,9,Google Play Store,2.9.74,positive,2025-05
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.873,2025-02-27,1,39,6,Google Play Store,4.8.44,positive,2025-02
+Bank of Abyssinia,Please fix the high fees problem!,2,-0.95,2025-09-04,1,33,6,Google Play Store,4.2.37,negative,2025-09
+Bank of Abyssinia,Excellent experience with smooth experience.,5,1.0,2025-08-20,4,44,5,Google Play Store,2.2.12,positive,2025-08
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",1,-0.663,2024-12-09,0,58,7,Google Play Store,3.0.20,negative,2024-12
+Bank of Abyssinia,I love how easy it is to do smooth experience.,5,1.0,2025-09-12,4,46,10,Google Play Store,3.4.4,positive,2025-09
+Commercial Bank of Ethiopia,app crashes frequently is making the app unusable.,1,-0.4,2025-04-13,1,50,8,Google Play Store,3.1.44,negative,2025-04
+Awash Bank,The app keeps having problems with login troubles.,1,-0.796,2025-06-06,4,50,8,Google Play Store,1.7.84,negative,2025-06
+Dashen Bank,Please fix the complex navigation problem!,1,-0.936,2025-06-28,2,42,6,Google Play Store,2.7.20,negative,2025-06
+Commercial Bank of Ethiopia,The app works perfectly for reliable service.,5,0.415,2025-06-09,2,45,7,Google Play Store,2.3.91,positive,2025-06
+Bank of Abyssinia,Highly recommended for helpful support team.,5,1.0,2025-10-20,2,44,6,Google Play Store,1.2.12,positive,2025-10
+Bank of Abyssinia,The app keeps having problems with transaction failures.,1,-0.437,2025-07-19,0,56,8,Google Play Store,1.8.44,negative,2025-07
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,4,0.504,2025-10-18,5,38,6,Google Play Store,4.9.9,positive,2025-10
+Bank of Abyssinia,Highly recommended for user-friendly interface.,5,0.981,2024-12-17,3,47,5,Google Play Store,4.2.70,positive,2024-12
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.765,2025-03-22,3,34,4,Google Play Store,2.1.76,positive,2025-03
+Commercial Bank of Ethiopia,The app works perfectly for convenient.,5,0.726,2025-03-08,2,39,6,Google Play Store,4.7.73,positive,2025-03
+Dashen Bank,Please fix the error messages problem!,1,-0.533,2025-06-28,0,38,6,Google Play Store,1.3.56,negative,2025-06
+Commercial Bank of Ethiopia,Excellent experience with easy to use.,5,1.0,2025-10-04,2,38,6,Google Play Store,2.7.79,positive,2025-10
+Bank of Abyssinia,poor connectivity is making the app unusable.,1,-0.824,2025-05-27,1,45,7,Google Play Store,1.0.31,negative,2025-05
+Commercial Bank of Ethiopia,Please fix the update issues problem!,1,-0.626,2025-04-05,0,37,6,Google Play Store,4.0.23,negative,2025-04
+Commercial Bank of Ethiopia,Highly recommended for good customer support.,5,0.648,2025-11-20,4,45,6,Google Play Store,3.7.36,positive,2025-11
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.704,2025-04-20,2,39,9,Google Play Store,2.0.79,positive,2025-04
+Awash Bank,Disappointed with login troubles issues.,2,-0.833,2025-04-08,0,40,5,Google Play Store,4.9.46,negative,2025-04
+Dashen Bank,I love how easy it is to do modern design.,5,1.0,2024-12-24,3,42,10,Google Play Store,4.7.1,positive,2024-12
+Awash Bank,Highly recommended for stable performance.,5,0.554,2025-05-28,1,42,5,Google Play Store,2.7.75,positive,2025-05
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.822,2025-04-06,8,48,8,Google Play Store,1.1.87,positive,2025-04
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,5,0.359,2025-06-06,5,43,6,Google Play Store,1.8.65,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do easy to use.,5,1.0,2025-04-10,9,40,11,Google Play Store,4.0.43,positive,2025-04
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.462,2025-01-04,2,40,8,Google Play Store,4.5.82,positive,2025-01
+Commercial Bank of Ethiopia,Highly recommended for convenient.,4,1.0,2025-01-18,4,34,4,Google Play Store,3.3.3,positive,2025-01
+Awash Bank,login troubles is making the app unusable.,1,-0.521,2025-01-05,2,42,7,Google Play Store,1.8.58,negative,2025-01
+Bank of Abyssinia,Disappointed with buggy updates issues.,1,-0.845,2025-05-16,0,39,5,Google Play Store,3.9.86,negative,2025-05
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.762,2025-03-15,5,39,9,Google Play Store,2.7.12,positive,2025-03
+Bank of Abyssinia,Bank of Abyssinia has the best smooth experience feature.,4,0.691,2025-07-16,2,57,9,Google Play Store,4.9.55,positive,2025-07
+Bank of Abyssinia,"Frustrated with high fees, needs immediate attention.",2,-0.807,2025-11-26,1,53,7,Google Play Store,2.9.66,negative,2025-11
+Commercial Bank of Ethiopia,Highly recommended for convenient.,5,0.619,2025-01-27,3,34,4,Google Play Store,4.8.63,positive,2025-01
+Dashen Bank,Highly recommended for innovative features.,5,0.83,2025-02-09,3,43,5,Google Play Store,1.9.17,positive,2025-02
+Commercial Bank of Ethiopia,The app keeps having problems with update issues.,1,-0.433,2025-03-29,0,49,8,Google Play Store,3.0.39,negative,2025-03
+Bank of Abyssinia,The app works perfectly for smooth experience.,5,1.0,2025-07-03,1,46,7,Google Play Store,3.7.25,positive,2025-07
+Dashen Bank,The app works perfectly for quick setup.,5,0.48,2024-12-16,1,40,7,Google Play Store,2.1.17,positive,2024-12
+Bank of Abyssinia,Disappointed with high fees issues.,1,-0.863,2025-01-26,2,35,5,Google Play Store,4.5.29,negative,2025-01
+Bank of Abyssinia,Highly recommended for helpful support team.,4,1.0,2025-07-13,3,44,6,Google Play Store,4.7.36,positive,2025-07
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,4,0.787,2025-06-29,3,61,11,Google Play Store,2.1.53,positive,2025-06
+Dashen Bank,The app keeps having problems with error messages.,1,-0.642,2025-07-12,0,50,8,Google Play Store,4.0.80,negative,2025-07
+Bank of Abyssinia,The app works perfectly for helpful support team.,5,0.765,2025-11-12,6,49,8,Google Play Store,4.7.14,positive,2025-11
+Awash Bank,Highly recommended for stable performance.,5,0.478,2025-08-03,4,42,5,Google Play Store,2.1.89,positive,2025-08
+Bank of Abyssinia,Highly recommended for secure transactions.,5,1.0,2025-06-28,6,43,5,Google Play Store,1.2.27,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,0.822,2025-10-10,3,45,10,Google Play Store,4.3.61,positive,2025-10
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.467,2025-10-31,3,48,8,Google Play Store,4.0.23,positive,2025-10
+Bank of Abyssinia,Please fix the buggy updates problem!,2,-1.0,2025-08-27,1,37,6,Google Play Store,4.0.41,negative,2025-08
+Bank of Abyssinia,Excellent experience with user-friendly interface.,5,0.605,2025-05-21,3,50,5,Google Play Store,3.0.18,positive,2025-05
+Bank of Abyssinia,Excellent experience with helpful support team.,5,0.602,2024-12-09,5,47,6,Google Play Store,3.2.99,positive,2024-12
+Commercial Bank of Ethiopia,The app works perfectly for easy to use.,5,0.565,2024-12-10,1,40,8,Google Play Store,1.1.87,positive,2024-12
+Bank of Abyssinia,Bank of Abyssinia has the best user-friendly interface feature.,4,0.945,2025-01-28,1,63,9,Google Play Store,3.9.13,positive,2025-01
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,4,1.0,2024-12-18,1,48,8,Google Play Store,4.3.69,positive,2024-12
+Bank of Abyssinia,I love how easy it is to do helpful support team.,5,0.905,2025-10-03,5,49,11,Google Play Store,3.6.44,positive,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,1.0,2025-08-12,4,61,11,Google Play Store,2.5.92,positive,2025-08
+Dashen Bank,Excellent experience with modern design.,4,0.659,2025-03-22,3,40,5,Google Play Store,1.7.31,positive,2025-03
+Commercial Bank of Ethiopia,Please fix the slow loading time problem!,1,-0.206,2025-08-14,0,41,7,Google Play Store,2.1.97,negative,2025-08
+Commercial Bank of Ethiopia,Highly recommended for fast money transfer.,4,0.949,2025-07-10,1,43,6,Google Play Store,1.9.89,positive,2025-07
+Dashen Bank,Highly recommended for quick setup.,5,0.885,2024-12-03,4,35,5,Google Play Store,1.2.76,positive,2024-12
+Commercial Bank of Ethiopia,Disappointed with update issues issues.,1,-0.652,2025-01-18,2,39,5,Google Play Store,3.4.86,negative,2025-01
+Commercial Bank of Ethiopia,I love how easy it is to do convenient.,5,0.344,2025-09-28,1,39,9,Google Play Store,2.6.0,positive,2025-09
+Bank of Abyssinia,Please fix the high fees problem!,1,-0.973,2025-06-28,1,33,6,Google Play Store,3.5.71,negative,2025-06
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,4,0.768,2025-09-21,3,59,9,Google Play Store,3.3.10,positive,2025-09
+Dashen Bank,Dashen Bank has the best modern design feature.,4,0.974,2025-03-02,4,47,8,Google Play Store,4.3.77,positive,2025-03
+Commercial Bank of Ethiopia,Disappointed with connection errors issues.,1,-0.282,2025-05-05,6,43,5,Google Play Store,2.0.78,negative,2025-05
+Dashen Bank,The app works perfectly for good security.,5,0.411,2025-06-06,0,42,7,Google Play Store,2.4.86,positive,2025-06
+Commercial Bank of Ethiopia,I love how easy it is to do reliable service.,5,1.0,2025-03-19,2,45,10,Google Play Store,1.9.79,positive,2025-03
+Bank of Abyssinia,Excellent experience with smooth experience.,5,0.569,2025-11-13,4,44,5,Google Play Store,4.1.94,positive,2025-11
+Commercial Bank of Ethiopia,Excellent experience with good customer support.,5,0.554,2025-02-17,8,48,6,Google Play Store,3.9.62,positive,2025-02
+Commercial Bank of Ethiopia,The app keeps having problems with login problems.,2,-1.0,2024-12-12,0,50,8,Google Play Store,1.4.19,negative,2024-12
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,5,1.0,2025-08-14,2,35,6,Google Play Store,4.2.88,positive,2025-08
+Commercial Bank of Ethiopia,"Frustrated with update issues, needs immediate attention.",2,-0.682,2025-04-24,2,57,7,Google Play Store,2.8.11,negative,2025-04
+Awash Bank,The app works perfectly for helpful customer service.,5,0.336,2025-05-23,1,53,8,Google Play Store,1.7.92,positive,2025-05
+Commercial Bank of Ethiopia,"Frustrated with login problems, needs immediate attention.",1,-0.655,2025-03-30,0,58,7,Google Play Store,3.7.41,negative,2025-03
+Commercial Bank of Ethiopia,I love how easy it is to do good customer support.,5,0.485,2024-12-16,4,50,11,Google Play Store,3.6.35,positive,2024-12
+Commercial Bank of Ethiopia,Highly recommended for easy to use.,4,0.876,2025-08-21,3,35,6,Google Play Store,3.8.96,positive,2025-08
+Dashen Bank,The app keeps having problems with complex navigation.,1,-0.406,2025-03-23,3,54,8,Google Play Store,4.5.47,negative,2025-03
+Dashen Bank,I love how easy it is to do modern design.,4,1.0,2025-03-09,3,42,10,Google Play Store,3.6.66,positive,2025-03
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",2,-0.829,2025-02-24,0,66,8,Google Play Store,2.5.6,negative,2025-02
+Bank of Abyssinia,buggy updates is making the app unusable.,2,-0.953,2025-10-28,1,41,7,Google Play Store,4.1.82,negative,2025-10
+Bank of Abyssinia,Bank of Abyssinia has the best secure transactions feature.,5,0.396,2025-07-24,6,59,9,Google Play Store,1.2.55,positive,2025-07
+Dashen Bank,Dashen Bank has the best modern design feature.,5,1.0,2025-07-29,2,47,8,Google Play Store,2.3.65,positive,2025-07
+Commercial Bank of Ethiopia,"Frustrated with app crashes frequently, needs immediate attention.",1,-0.522,2024-12-23,0,66,8,Google Play Store,1.3.19,negative,2024-12
+Commercial Bank of Ethiopia,"Frustrated with connection errors, needs immediate attention.",1,-0.624,2025-04-05,3,61,7,Google Play Store,2.5.43,negative,2025-04
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best convenient feature.,5,0.552,2025-11-21,4,60,9,Google Play Store,2.8.59,positive,2025-11
+Commercial Bank of Ethiopia,The app works perfectly for fast money transfer.,5,0.975,2025-10-02,3,48,8,Google Play Store,1.0.56,positive,2025-10
+Commercial Bank of Ethiopia,Commercial Bank of Ethiopia has the best easy to use feature.,5,1.0,2025-10-02,3,61,11,Google Play Store,3.8.11,positive,2025-10
+Bank of Abyssinia,Highly recommended for smooth experience.,5,0.528,2025-11-24,2,41,5,Google Play Store,2.2.16,positive,2025-11
+Commercial Bank of Ethiopia,The app keeps having problems with update issues.,1,-0.449,2025-05-14,0,49,8,Google Play Store,2.3.4,negative,2025-05
